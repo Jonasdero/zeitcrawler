@@ -3,7 +3,7 @@ var fs = require('fs');
 
 // Get Data from Zeit online
 // Login into premium not valid anymore
-function getArchiveData() {
+function getArchiveData(year) {
   controller.getUrls(2018, 2018);
 }
 function extract() {
@@ -14,5 +14,6 @@ function exportToCSV() {
   controller.exportToCSV();
 }
 
-getArchiveData();
+// getArchiveData();
+// extract();
 // exportToCSV();

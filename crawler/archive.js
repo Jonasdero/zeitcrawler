@@ -51,8 +51,8 @@ function getPostUrls(instance, index) {
       if (index === weekUrls.length) {
         var path = './weeks/';
         var name = STARTYEAR === ENDYEAR
-          ? path + STARTYEAR
-          : path + STARTYEAR + '-' + ENDYEAR;
+          ? STARTYEAR
+          : STARTYEAR + '-' + ENDYEAR;
         console.log('Saving ' + postUrls.length + ' post urls to ' + name);
         save(postUrls, path, name);
         endNightmare(instance);
@@ -114,6 +114,11 @@ function getPostData(instance, index) {
           article.ressort = reference.attributes.ressort.value;
       }
 
+      article.length = 0;
+      for (let p of document.getElementsByTagName('p')) {
+        article.length += p.textContent.length;
+      }
+
       article.tags = [];
       for (let tag of tags) article.tags.push(tag.innerHTML);
 
@@ -123,9 +128,7 @@ function getPostData(instance, index) {
       index++;
       if (index === postUrls.length) {
         var path = './posts/';
-        var name = STARTYEAR === ENDYEAR
-          ? path + STARTYEAR + '-posts'
-          : path + STARTYEAR + '-' + ENDYEAR + '-posts';
+        var name = STARTYEAR === ENDYEAR ? STARTYEAR : STARTYEAR + '-' + ENDYEAR;
         console.log('Saving ' + articles.length + ' articles to ' + name);
         save(articles, path, name);
         endNightmare(instance);

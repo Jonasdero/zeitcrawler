@@ -70,6 +70,8 @@ function extractAndConvert() {
         && +art.text_length !== undefined
         ? +art.text_length : 0;
 
+      if (!article.length)
+        article.length = 0;
       extractedArticles.push(article);
     }
   }
