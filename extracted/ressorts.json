@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "name": "Politik"
+    },
+    {
+        "id": 2,
+        "name": "Dossier"
+    },
+    {
+        "id": 3,
+        "name": "wissen"
+    },
+    {
+        "id": 4,
+        "name": "Wirtschaft"
+    },
+    {
+        "id": 5,
+        "name": "Wissen"
+    },
+    {
+        "id": 6,
+        "name": "Feuilleton"
+    },
+    {
+        "id": 7,
+        "name": "Chancen"
+    },
+    {
+        "id": 8,
+        "name": "Kultur"
+    },
+    {
+        "id": 9,
+        "name": "Deutschland"
+    },
+    {
+        "id": 10,
+        "name": "Media"
+    },
+    {
+        "id": 11,
+        "name": "Lebensart"
+    },
+    {
+        "id": 12,
+        "name": "Hochschule"
+    },
+    {
+        "id": 13,
+        "name": "Campus"
+    },
+    {
+        "id": 14,
+        "name": "Gesundheit"
+    },
+    {
+        "id": 15,
+        "name": "Literatur"
+    },
+    {
+        "id": 16,
+        "name": "Leben"
+    },
+    {
+        "id": 17,
+        "name": "Gesellschaft"
+    },
+    {
+        "id": 18,
+        "name": "Digital"
+    },
+    {
+        "id": 19,
+        "name": "Karriere"
+    },
+    {
+        "id": 20,
+        "name": "Computer"
+    },
+    {
+        "id": 21,
+        "name": "Studium"
+    },
+    {
+        "id": 22,
+        "name": "International"
+    },
+    {
+        "id": 23,
+        "name": "Bildung"
+    },
+    {
+        "id": 24,
+        "name": "Musik"
+    },
+    {
+        "id": 25,
+        "name": "Sport"
+    },
+    {
+        "id": 26,
+        "name": "Mobilitaet"
+    },
+    {
+        "id": 27,
+        "name": "Reisen"
+    },
+    {
+        "id": 28,
+        "name": "Administratives"
+    },
+    {
+        "id": 29,
+        "name": "Finanzen"
+    },
+    {
+        "id": 30,
+        "name": "ZUENDER"
+    },
+    {
+        "id": 31,
+        "name": "Meinung"
+    },
+    {
+        "id": 32,
+        "name": "Auto"
+    },
+    {
+        "id": 33,
+        "name": "Leserbriefe"
+    },
+    {
+        "id": 34,
+        "name": "Literaturbeilage"
+    },
+    {
+        "id": 35,
+        "name": "Wissen,Bildung"
+    },
+    {
+        "id": 36,
+        "name": "Geschichte"
+    },
+    {
+        "id": 37,
+        "name": "Politisches Buch"
+    },
+    {
+        "id": 38,
+        "name": "News"
+    },
+    {
+        "id": 39,
+        "name": "Glauben und Zweifeln"
+    },
+    {
+        "id": 40,
+        "name": "Zeitlaeufte"
+    },
+    {
+        "id": 41,
+        "name": "zeit-magazin"
+    },
+    {
+        "id": 42,
+        "name": "Angebote"
+    },
+    {
+        "id": 43,
+        "name": "Entdecken"
+    },
+    {
+        "id": 44,
+        "name": "KinderZEIT"
+    },
+    {
+        "id": 45,
+        "name": "Fussball"
+    },
+    {
+        "id": 46,
+        "name": "Aktuelles"
+    },
+    {
+        "id": 47,
+        "name": "Spiele"
+    },
+    {
+        "id": 48,
+        "name": "zeitmagazin"
+    },
+    {
+        "id": 49,
+        "name": "Hamburg"
+    },
+    {
+        "id": 50,
+        "name": "Community"
+    },
+    {
+        "id": 51,
+        "name": "n/a"
+    },
+    {
+        "id": 52,
+        "name": "Recht und Unrecht"
+    },
+    {
+        "id": 53,
+        "name": "DIE ZEIT"
+    },
+    {
+        "id": 54,
+        "name": "Arbeit"
+    },
+    {
+        "id": 55,
+        "name": "Christ &amp; Welt"
+    },
+    {
+        "id": 56,
+        "name": "ZEITmagazin"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "zeitcrawler",
+  "version": "0.0.0",
+  "description": "Crawl all posts on a newssite called \"Zeit\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonasdero/zeitcrawler.git"
+  },
+  "keywords": [
+    "crawl",
+    "big-data",
+    "mining"
+  ],
+  "author": "Jonasdero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonasdero/zeitcrawler/issues"
+  },
+  "homepage": "https://github.com/Jonasdero/zeitcrawler#readme",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "nightmare": "^3.0.1"
+  }
+}

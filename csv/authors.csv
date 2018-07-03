@@ -1,0 +1,2503 @@
+id,name
+1,Christof Siemes
+2,Josef Joffe
+3,Andrea Boehm
+4,Thomas E. Schmidt
+5,Petra Pinzler
+6,Jochen Bittner
+7,Matthias Krupa
+8,Konrad Heidkamp
+9,Johannes Voswinkel
+10,Reiner Luyken
+11,Gunter Hofmann
+12,Tanja Busse
+13,Michael Schlieben
+14,Frank Drieschner
+15,Christian Schuele
+16,Christian Schüle
+17,Mark Spoerrle
+18,Frank Buettner
+19,Cerstin Gammelin
+20,
+21,Dietmar H. Lamparter
+22,Marie-Luise Hauch-Fleck
+23,Ulrich Schnabel
+24,Sabine Etzold
+25,Martin Spiewak;ulrich Schnabel
+26,Hans Schuh
+27,Andreas Sentker
+28,Urs Willmann
+29,Christoph Droesser
+30,Christoph Drösser
+31,Claudia Herstatt
+32,Tobias Timm
+33,Georg Etscheit
+34,Achim Wuesthof
+35,Dieter Dohmen
+36,Ulrich Bahnsen
+37,Thomas Groß
+38,W. Goertz
+39,Jerome Charyn
+40,Patrik Schwarz;matthias Krupa
+41,Joachim Riedl
+42,John F. Jungclaussen
+43,Florian Klenk
+44,Helmut Schmidt
+45,Katja Nicodemus
+46,Ulrich Greiner
+47,Thomas Schmid
+48,Patrik Schwarz
+49,Anton Pelinka
+50,Martina Keller
+51,Thomas Fischermann
+52,Christine Böhringer
+53,Anne Will
+54,Peter Hossli
+55,Peter Kümmel
+56,Tilman Spengler
+57,Michael Miersch
+58,Anke Leweke
+59,Michael Naumann
+60,Dirk Asendorpf
+61,Arnfrid Schenk
+62,Kerstin Kohlenberg
+63,Birgit Herden
+64,Joachim Marschall
+65,Achim Wüsthof
+66,Susannne Bergius
+67,Wolfgang Büscher
+68,Jan-Martin Wiarda
+69,Claus Spahn
+70,Kerstin Kohlenberg;Alexander Bühler
+71,Elke Buhr
+72,John F. Jungclaussen;Michael Mönninger;Petra Pinzler;Jan Ross
+73,Mathias Greffrath
+74,Claas Pieper
+75,Georg Diez
+76,Jeannette Otto
+77,Ulrich Stock
+78,Thomas Röbke
+79,Christian Tenbrock
+80,Burkhard Straßmann
+81,Thomas Häusler
+82,Tobias Hürter
+83,Lemke
+84,Julian Hans
+85,Niels Boeing
+86,Thomas Winkler
+87,Markus Wolff
+88,Stefanie Schramm
+89,Thomas  Groß
+90,Jens Jessen
+91,Diedrich Diederichsen
+92,Giovanni di Lorenzo
+93,Marcus Krämer
+94,Marc Brost;Tina Hildebrandt
+95,Volker Hagedorn
+96,Burkhard Strassmann
+97,Dietmar Bruckner
+98,Götz Hamann
+99,Sabine Hoffmann
+100,Carolyn Braun
+101,Matthias Schönebäumer
+102,Frank Hilberg
+103,Susanne Gaschke
+104,Alexandra Werdes
+105,Uwe Jean Heuser
+106,Evelyn Finger
+107,Marcus Rohwetter
+108,Martin Spiewak
+109,Marc Hasse
+110,Karin Ceballos Betancur
+111,Andrea Jeska
+112,Thomas Assheuer
+113,Bernd Ulrich
+114,Matthias Geis
+115,Ulrich Ladurner
+116,Martin Klingst
+117,Matthias Naß
+118,Alfred Dorfer
+119,Brigitte Fehrle
+120,Sabine Rückert
+121,Roland Kirbach
+122,Sibylle Herbert
+123,Marc Brost
+124,Sophie Büning
+125,Ottmar Edenhofer
+126,Harro Albrecht
+127,Stephanie Janssen
+128,Hanno Rauterberg
+129,Peter Rüedi
+130,Reinhard Kahl
+131,Michael Thumann
+132,Barbara Nothegger
+133,Sabrina Ebitsch
+134,Wolfgang Luef
+135,Oswald Beaujean
+136,Alice Bota
+137,Thomas Gross
+138,Katja Barthels
+139,Lamparter
+140,Albrecht Ude
+141,Christine Lemke-Matwey
+142,Beppe Grillo
+143,Wolfram Goertz
+144,Harriet Köhler
+145,Bartholomäus Grill
+146,Marion Gräfin Dönhoff
+147,Max Rauner
+148,Judith Scholter
+149,Angela Köckritz
+150,Gerd Blase
+151,Till Maase
+152,Petra Reski
+153,Christian Fuchs
+154,Wolfgang Uchatius
+155,Matthias Afting
+156,Julia Gerlach
+157,Jutta Hoffritz
+158,Birgit Wetzel
+159,Arne Storn
+160,Fabian Reinbold
+161,Manuel J. Hartung
+162,Solmaz  Khorsand
+163,Wolfganng Uchatius
+164,Stefan Beuse
+165,Tobias Rapp
+166,Harald Welzer
+167,Stefan Schmitt
+168,Mirko Weber
+169,Jana Simon
+170,Nicola  Kuhrt
+171,Georg Blume
+172,Birgit Schönau
+173,Christiane Grefe
+174,Wolfgang Ullrich
+175,Feridun Zaimoglu
+176,Jan - Martin Wiarda
+177,Anita und Marian Blasberg
+178,Elisabeth Niejahr
+179,Rüdiger Bässler
+180,Katja Kasten
+181,Katja Bosse
+182,Wolfgang Gehrmann
+183,Norman Ohler
+184,Frank Sawatzki
+185,Jürgen Baumert
+186,Philipp Schwenke
+187,Tillmann Prüfer
+188,Gisela Dachs
+189,Oliver Ristau
+190,Fritz Vorholz
+191,Christian Schmidt-Häuer
+192,Eva C. Schweitzer
+193,siemes
+194,greiner
+195,stelzer
+196,Gasser
+197,Dausend
+198,Fehrle
+199,Richard Schneider
+200,Katrin Hˆrnlein
+201,S. Gaschke
+202,K. Hˆrnlein
+203,Edith Nesbit
+204,Corinna Arndt
+205,Jonas Viering
+206,Rudzio/hamann
+207,Hamann
+208,Burger
+209,Mark Schieritz
+210,Storn
+211,Fischermann
+212,Hoffritz
+213,schuh
+214,Willmann
+215,Sentker
+216,Wirtz
+217,Drˆsser et al.
+218,Tuvia Tenenbom
+219,Jürgen von Rutenberg
+220,Jessen
+221,Hilberg
+222,F. Sawatzki
+223,Heidkamp
+224,M. Weber
+225,Greiner
+226,Sebastian Mahner
+227,Alexandra Busse
+228,Naﬂ
+229,mmw
+230,gdl
+231,Drieschner
+232,Hofmann
+233,tes
+234,suﬂebach
+235,Suﬂebach
+236,khorsand
+237,Albrecht Metzger
+238,Rohwetter
+239,Heuser
+240,Marohn
+241,Schieritz
+242,Andreas Sentker;Ulrich Schnabel
+243,Spiewak
+244,Schnabel
+245,will
+246,R¸ckert
+247,Etzold
+248,"bah 1+2, etz 3"
+249,K¸mmel
+250,Leweke
+251,Beaujean
+252,Winkler
+253,P. R¸edi
+254,Ass
+255,Finger
+256,Hans N. Weiler
+257,Tina Rohowski
+258,Wiarda
+259,Kerstan
+260,Thomas Rˆbke
+261,Volker Perthes
+262,Matthias Nass
+263,Pinzler
+264,grn
+265,willmann
+266,Wefing
+267,Hildebrand
+268,b.e.
+269,Ulrich
+270,NN
+271,Birgit Wittstock
+272,bruno
+273,wb
+274,Götz Hamann;Claas Tatje
+275,Anita Blasberg
+276,Claas Tatje;Christian Tenbrock
+277,Stefanie C. Müller
+278,Jungbluth
+279,Fischermann/Heuser
+280,Ladurner
+281,Schramm
+282,sam (2.)etz(1)
+283,Maxim Biller
+284,k¸mmel
+285,Glombitza
+286,A. Leweke
+287,C. Lenssen
+288,W. Trapp
+289,Chr. Kortmann
+290,Erenz
+291,Burkard
+292,Angelika Dietrich
+293,Wolfgang Herrmann;Rudolf Steinberg
+294,Dustin Klinger
+295,Anna Mielke
+296,Stephan Lebert
+297,Gerhard Schröder
+298,Andrea Böhm
+299,Christian Denso
+300,Bota
+301,Barack Obama
+302,Novotny
+303,Bittner
+304,G¸nter Seufert
+305,Lau
+306,T.E.Schmidt
+307,wefing
+308,E. Nesbitt
+309,Rüdiger Jungbluth
+310,Brost
+311,Vera Sprothen
+312,Tatje
+313,Kopper
+314,Kai Michel
+315,Sigrid Neudecker
+316,Straﬂmann
+317,Neudecker
+318,sam (1)etz(1)
+319,Norbert Niemann
+320,B.Glombitza
+321,Assheuer
+322,V.Braun
+323,Rainer Burkard
+324,Harry Rowohlt
+325,Wiebke Nieland
+326,jo
+327,Heinrich Wefing
+328,Tina Hildebrandt
+329,Matthias Geis;Jan Ross
+330,Joffe
+331,Christian Ortner
+332,Grn
+333,Ivanova
+334,Denso
+335,Hildebrandt
+336,Ross
+337,Eckart von Klaeden
+338,Adrian Lobe
+339,jr
+340,Kolja Rudzio
+341,Ulrich Schnabel;Andreas Senkter
+342,Dirk Asendorpf;Burkhard Straßmann
+343,Rudolf Novotny
+344,None
+345,Nieu
+346,Herzog
+347,Rainer Schmidt
+348,Jörg Scheller
+349,Nicodemus
+350,Spahn
+351,Rauterberg
+352,Groﬂ
+353,Tom R. Schulz
+354,A. Busche
+355,Bernau
+356,J.J.
+357,Martin Gropp
+358,Rˆbke
+359,Amend
+360,Novotny/Ivanova
+361,hildebrandt
+362,novotny
+363,P. Dausend
+364,"Krastev, Ivan"
+365,robert wegener
+366,RK/wb
+367,Jacob J. E. Vicari
+368,E.Nesbitt
+369,Finkenzeller
+370,Bilen
+371,Kˆhler
+372,Hauff/Tˆpfer
+373,L¸tge
+374,Viehˆver
+375,Jürgen Bröker
+376,Beat Glogger
+377,Volker Ullrich
+378,Brˆker
+379,bel/etz
+380,Drˆsser
+381,Schweitzer
+382,Sven Behrisch
+383,Viola Shafik
+384,Sawatzki
+385,R¸edi
+386,Michaelis
+387,B¸rger
+388,R. Burkard
+389,Norbert Kron
+390,Thomas Kerstan
+391,Christiane Teetz
+392,katja bosse
+393,thr
+394,Robert Leicht
+395,Patrik Schwarz;Andres Veiel
+396,Susanne Gaschke;Matthias Krupa
+397,amend/gdl
+398,jessen
+399,Hartung
+400,Harpprecht
+401,Jungclaussen
+402,Blume
+403,Schwarz
+404,maettig
+405,schmiederer
+406,Gerd Millmann
+407,RK
+408,RK + kcb
+409,Edith Nesbitt
+410,Götz Hamann;Anna Marohn
+411,Rudzio
+412,Niejahr/Tatje/Viering
+413,Hamann/Marohn
+414,Praetorius
+415,Buchter
+416,Sally
+417,Stefanie Flamm
+418,Katrin Zeug
+419,Ruben Karschnick
+420,Bahnsen
+421,Flamm
+422,"zeu,etz.."
+423,Katharina Hagena
+424,S.Mayer
+425,U.Greiner
+426,E.Loest
+427,H.Rowohlt
+428,Nieswandt
+429,(Kino)
+430,S. Hentz
+431,Factory Girl
+432,MWarnke
+433,Biller
+434,J.Jessen
+435,Bastian Berbner
+436,chb
+437,Inge Kutter
+438,Alice Bota;Martin Klingst;Michael Thumann
+439,Tina Hildebrandt;Matthias Krupa
+440,Tanja Stelzer
+441,kammertˆns
+442,richter
+443,stoebener
+444,bul
+445,ross
+446,bota
+447,albrecht
+448,Nass
+449,Hanns-Bruno Kammertöns;Stephan Lebert
+450,kcb
+451,SG
+452,Karsten Polke-Majewski
+453,Leidel
+454,Niejahr
+455,Mattauch
+456,etz
+457,Zeug
+458,Herzog/Lechner
+459,Lechner
+460,Friederike Hassauer
+461,Burkard/Leweke
+462,G.Jˆrder
+463,Kortmann
+464,Rainer
+465,Siemes
+466,Jeannette Otto;Kathrin Harms
+467,Joachim Budde
+468,jmw
+469,MJH
+470,Fuchs
+471,Alexandra Ivanova
+472,Jörn Breiholz
+473,Wolfgang Huber
+474,ladurner
+475,Bit/Luy/Lad
+476,ab
+477,Thumann
+478,Geis
+479,von Thadden
+480,Bull
+481,roland
+482,Tatjana Kimmel
+483,Tenbrock
+484,Sieren
+485,H‰ssig
+486,Voswinkel
+487,Breustedt
+488,Volker Stollorz
+489,Stollorz
+490,Allmaier
+491,zeug
+492,Sebastian Herzog;Wolfgang Lechner
+493,R.Burkard
+494,Chr. Siemes
+495,Jan Ross
+496,Tina Hildebrandt;Heinrich Wefing
+497,Johannes Voswinkel;Michael Thumann
+498,Jörg Lau
+499,Kishore Mahbubani
+500,Erwin Koch
+501,Michail Ryklin
+502,Mely Kiyak
+503,Klaus Kreimeier
+504,Judith Kösters
+505,Christine Brinck
+506,Madlen Ottenschläger
+507,Alice Bota;Bernd Ulrich
+508,Hauke Friederichs
+509,rutenberg
+510,mayer
+511,Riedl
+512,GdL
+513,polke
+514,Grn.
+515,GvR/MT/luy
+516,"rauterberg, willmann"
+517,haf
+518,msp
+519,Krupa
+520,Christoph Mˆllers
+521,Wolfgang Fischer
+522,Andreas Molitor
+523,E. Nesbith
+524,Hans Christian Müller
+525,mas
+526,tf
+527,M¸ller
+528,Kimmel
+529,Michael Zick
+530,schweitzer
+531,Jochen Schmidt
+532,Timm
+533,Marike Frick
+534,aw
+535,Parag Khanna
+536,amend
+537,Polke-Majewski
+538,Illies
+539,Gero von Randow
+540,Friederichs
+541,"Fehrle, NN"
+542,Dausend/Geis
+543,Peter Dausend
+544,Eva-Maria Simon
+545,Patrick Schwarz
+546,evelyn finger
+547,Pally
+548,Wolf-R¸diger Schmidt
+549,Cameron Abadi
+550,Stefan Willeke
+551,St. Willeke
+552,Dietmar H. Lamparter;Uwe Jean Heuser
+553,Gunhild Lütge
+554,Anna Marohn
+555,Ermert
+556,jun
+557,Grill
+558,Michel
+559,N.N.
+560,Peter Roos
+561,Nic
+562,"cis, burkard"
+563,Bˆhm
+564,Sieren/Dachs/Voswinkel
+565,Kˆckritz
+566,von Randow
+567,Bittner/Pinzler
+568,Schmidt-H‰uer
+569,M¸nkler
+570,Felix Haass
+571,Dardis Mcnamee
+572,Roland
+573,R. Kipling
+574,Heike Buchter;Mark Schieritz;Arne Storn
+575,Busse/Grefe
+576,Collier/Fischermann
+577,Blasberg
+578,Eiken Bruhn
+579,Susanne Mayer
+580,Bruhn
+581,Bˆhringer
+582,Gerhart Baum
+583,Pascale Hugues
+584,Petra Kipphoff
+585,Achatz von Müller
+586,V. Hagedorn
+587,B. Schˆnau
+588,cis
+589,A. Lettau
+590,Thomas Kerstan;Martin Spiewak
+591,Christoph Dieckmann
+592,Karl Lauterbach
+593,kpm
+594,vos/bit/luy drin
+595,"willmann, lebert"
+596,Binz
+597,A. Bˆhm
+598,Peer Steinbr¸ck
+599,Mark Schieritz;Heike Buchter
+600,Rüdiger Jungbluth;Arne Storn
+601,Heike Buchter
+602,Thomas Hammer
+603,Schˆnau
+604,Meyer-Timpe
+605,H‰nggi
+606,Thoms
+607,Olaf Wittrock
+608,J¸rgen Drommert
+609,cyb
+610,v.Thadden
+611,Nieuwenhuizen
+612,Jens Jessen;Evelyn Finger;Thomas Assheuer
+613,Jochen Wagner
+614,Gert Kähler
+615,Hentz
+616,M.Biller
+617,stan
+618,Nina Grunenberg
+619,Alexander Chramtschichin
+620,grn.
+621,Leicht
+622,Krupa/Schwarz
+623,Klingst
+624,Perger
+625,Ingo Scholz
+626,S.W.
+627,kek
+628,Ulrich Baron
+629,Tove Jansson
+630,Uwe Jean  Heuser
+631,Ulrike Meyer-Timpe
+632,Bettina Gartner
+633,Klaus Jacob
+634,Martin Spiewak;Arnfrid Schenk
+635,Schuh
+636,Ulrich Peltzer
+637,Roland Müller
+638,P.K¸mmel
+639,Th.Groﬂ
+640,S. Horst
+641,M.Weber
+642,"Tom R, Schulz"
+643,Angela Kˆckritz
+644,Christine Brinck;Thomas Kerstan
+645,Janne Kieselbach
+646,Maren Soehring
+647,Madlen Ottenschl‰ger
+648,janne
+649,ima
+650,"Ulrich Greiner, Florian Illies"
+651,Ulrich Beck
+652,nass
+653,hamann
+654,niedeberghaus u.a
+655,Grefe
+656,Speckmann
+657,Gˆring
+658,Solmaz Khorsand
+659,Frank Sieren
+660,T. Jansson
+661,Matthias Nass;Mark Schieritz
+662,Brost et al
+663,Pinzler/Tatje
+664,Warsh
+665,Salchert
+666,Olaf L. Müller
+667,Josephine Maier
+668,Maier
+669,Doron Rabinovic
+670,Wolff
+671,B¸sser
+672,Fischer
+673,Schulz
+674,Freitag
+675,Kerstan/Rˆbke
+676,Jörg Burger;Angela Köckritz;Matthias Stolz;Annabel Wahba
+677,Theo Sommer
+678,heuser
+679,Brost/Naﬂ
+680,Randow
+681,allmaier
+682,Korte
+683,Bernd Leber
+684,sw
+685,Alexandra Frank
+686,Kolja  Rudzio
+687,Marc Brost;Mark Schieritz
+688,UJH
+689,Sprothen
+690,Vorholz
+691,Frenkel
+692,Josephina Maier
+693,"Wiarda, Spiewak"
+694,Martin Spiewak;Jan-Martin Wiarda
+695,"Z¸ger, Martina"
+696,Barbara Lehmann
+697,Hilal Sezgin
+698,Clemens Matuschek
+699,R. Michaelis
+700,Goertz
+701,P. Roos
+702,Kipphoff
+703,Werner A. Perger
+704,Seyran Ates
+705,wfg
+706,GvR/luy/bit 
+707,tenbrock u.a.
+708,Bubrowski/Friederichs
+709,Fehrle/Ulrich/Dausend
+710,Hanns-Bruno Kammertöns;Stepahn Lebert
+711,"Bruno, Roland"
+712,Bruno
+713,Loriot
+714,R.
+715,M. Thumann
+716,Terry Pratchett
+717,Marlies Uken
+718,Sieferle
+719,Brost/Schieritz
+720,"keb, jie"
+721,Pfeil
+722,Jens Uehlecke
+723,Rainer Willmann
+724,Schmitt
+725,Albrecht
+726,Birgit Glombitza
+727,Jörg Burger
+728,Heinz-Peter Schwerfel
+729,T. Timm
+730,C. Matuschek
+731,Th. Groﬂ
+732,Chr. Grefe
+733,Julia Gerlach 
+734,Andreas Unger
+735,Sina Clorius
+736,erenz
+737,Bubrowski
+738,Dachs/Luyken
+739,Robert Misik
+740,EF
+741,Naumann
+742,ole schley
+743,Benedikt
+744,T. Bendikowski
+745,Hˆrnlein
+746,Gaschke
+747,Ottfried Preussler
+748,Bund
+749,Mauer
+750,Christ
+751,Ulrich Bahnsen;Jens Uehlecke
+752,Jochen Paulus
+753,Henning Sussebach
+754,M. Sack
+755,P. Frankenberg
+756,Bosse
+757,Budde
+758,Helene Bubrowski;Heinrich Wefing
+759,Luyken
+760,Paul
+761,B¸hler
+762,C. Dieckmann
+763,Henning
+764,D. Lamparter
+765,"Henning, Roland"
+766,Busse
+767,Christoph Sch‰fer
+768,Schieritz/Storn
+769,Wang
+770,Wilkens
+771,Jeska
+772,jom
+773,D.Kuhlbrodt
+774,Florian Illies
+775,Markus Wanzeck
+776,JMW
+777,André Paul
+778,Dirk Messner;Simon Maxwell
+779,Jochen Bittner;Michael Thumann
+780,Pinzler/Hofmann
+781,Krzeminski
+782,Karsten Wiedemann
+783,O. Preuﬂler
+784,Sybil Gräfin Schönfeldt
+785,Schˆnfeldt
+786,Martin Beyer;Maximilian Pisacane
+787,Endres
+788,Heino Reents
+789,Matuschek
+790,P. Henning
+791,Daniel Bax
+792,Helene Bubrowski
+793,Timothy Garton Ash
+794,Alexander Bühler
+795,kerstan
+796,Menkens
+797,krupa
+798,Franzobel
+799,Jan Marose
+800,Charlotte Wiedemann
+801,Christoph Bertram
+802,vonThadden
+803,Uwe Jean Heuser;Dietmar H. Lamparter
+804,Michael  Thumann
+805,Heike Buchter;Uwe Jean Heuser
+806,Gehrmann
+807,Ralph Geisenhanslüke
+808,Peter Henning
+809,Hans-Joachim Müller
+810,Christof Siemes;Christian Denso
+811,Andrea Böhm;Heinrich Wefing
+812,Albrecht Breitschuh
+813,kirrbach
+814,BU
+815,Riabtschuk
+816,Maximilian Haase
+817,schmiedrer
+818,Kerstin Kohlenberg;Wolfgang Uchatius
+819,uch
+820,Kipling
+821,Marc Brost;Kolja Rudzio
+822,Brost/Rudzio
+823,Thomas Fischermann;Christiane Grefe;Petra Pinzler
+824,Thomas Kleine-Brockhoff
+825,Jie
+826,Nils Boeing
+827,Jonathan Fischer
+828,Jan Brachmann
+829,Stefan Hentz
+830,Th. Winkler
+831,Dr. Julia Nolte
+832,thomas Rˆbke
+833,Andrea Böhm;Angela Köckritz;Helene Bubrowski;Christiane Grefe
+834,Jochen Bittner;Andrea Böhm;Helene Bubrowski;Christian Denso;Michael Thumann
+835,Naﬂ/Wefing
+836,Polke
+837,Dausend Peter
+838,diLorenzo
+839,pl¸ss
+840,Suketu Mehta
+841,David Yang
+842,Teuwsen/Pˆhner
+843,Cerutti
+844,Ralph Pöhner
+845,Jakob Tanner
+846,Iris Radisch
+847,Jost Auf der Maur
+848,Hanns-Bruno Kammertöns
+849,Moritz Leuenberger
+850,Martin Beglinger
+851,Peer Teuwsen
+852,Elaine Horseman
+853,Javier Corrales
+854,Nicola Kuhrt;Björn Schwentker
+855,Nicola Kuhrt
+856,Till Hein
+857,Schwentker
+858,Pia Frankenberg
+859,Silvia Stammen
+860,harpprecht
+861,C. Fastner
+862,Stock
+863,Seeﬂlen
+864,Rowohlt
+865,Stefan Kesselhut
+866,mainka
+867,schnabel
+868,Ulrich Gineiger
+869,Bernhard Baumgartner
+870,Andreas Groß
+871,Scheffer
+872,Boll
+873,Silvano Cerutti
+874,Roland/Henning
+875,S. R¸ckert
+876,Susanne Prebitzer
+877,Etscheit
+878,Tobias Beck
+879,Alina Bronsky
+880,Wim Wenders
+881,Monika Salchert
+882,Carolin Emcke
+883,denso
+884,Teuwsen
+885,Engel
+886,Staud
+887,Mathias Morgenthaler
+888,Roland Fischer
+889,Lukas Bärfuss
+890,de weck
+891,cerutti
+892,Wiese
+893,kh
+894,Uwe Jean Heuser;Michael Thumann
+895,Claas Tatje;Fritz Vorholz
+896,Rohwetter/Heuser
+897,Katrin Wilkens
+898,Heintze
+899,Hamel
+900,Paul Flieder
+901,Wilhelm Trapp
+902,Mark Spörrle
+903,Rolf Spinnler
+904,H. Rowohlt
+905,Jan Ross;Ptrick Schwarz
+906,Alica Bota
+907,Peter Dausend;Bernd Ulrich
+908,Marcia Pally
+909,Kammertˆns
+910,Martin Krupa
+911,Richter
+912,abt
+913,Hansen
+914,Mathias Pl¸ss
+915,Peter Teuwsen
+916,Mathias Daum
+917,Roger de Weck
+918,"kammertˆns, lebert"
+919,Ulrike Linzer
+920,Himmel
+921,Elisabeth Niejahr;Kolja Rudzio
+922,Kerstin Bund
+923,Sebastian Dullien;Daniela Schwarzer
+924,Thomas Pletzinger
+925,arn
+926,Gisela Dachs;Michael Thumann
+927,Lebert
+928,Bl¸m
+929,Sch¸tterle
+930,pet
+931,Elisabeth von Thadden
+932,Rolf Michaelis
+933,E.Finger
+934,Friederike Gräff
+935,Gunter Irmler
+936,Markus Brügge
+937,Scholter
+938,Bernd Ulrich;Matthias Krupa
+939,Patrik Schwarz;Jörg Lau
+940,Majeda al-Saqqa
+941,Alexander Demandt
+942,Kˆckritz/Schwarz
+943,Jimenez
+944,H¸rlimann
+945,Fahle
+946,Claude Baumann
+947,Jansson
+948,Dagmar Rosenfeld
+949,Stefan Mauer
+950,Hamann/Tatje
+951,Martin Spiewak;Gregor Thuswaldner
+952,Max Rauner;Tobias Hürter
+953,Rauner
+954,Joseph S. Nye Jr.
+955,Gesine Danckwart
+956,Jeannine Kantara
+957,Carsten Fastner
+958,Christof Siemes;Katja Nicodemus
+959,Eshkol Nevo
+960,Rosenfeld
+961,Konrad Hummler
+962,Joachim Hˆnig
+963,Margrit Sprecher
+964,silvano cerutti
+965,naum
+966,Mainka
+967,dietmar H. Lamparter
+968,Jungclaussen/Tatje
+969,Viering
+970,Christian Heinrich;Dirk Asendorpf
+971,Heinrich
+972,Asendorpf
+973,Gartner
+974,Andrew J. Bacevich
+975,Kati Thielitz
+976,Trapp
+977,Busche
+978,Dieter Hildebrandt
+979,Tonio Postel
+980,Kilian Kirchgessner
+981,Brigitte Fehrle;Dagmar Rosenfeld
+982,Lukas Kapeller
+983,Peter Jahn
+984,pm
+985,betancour/sussebach
+986,Schwarz/Stelzer
+987,Michael Siegmund
+988,Ernst Schmiederer
+989,Rudolf Strahm
+990,Bartholomäus Grill;Andrea Jeska
+991,Christian Heinrich
+992,N.N:
+993,Christoph Dieckmann;Christof Siemes
+994,Terry Eagleton
+995,Hagedorn
+996,naumann
+997,Roos
+998,Marc Brost;Bernd Ulrich
+999,Camilo Jimenez
+1000,Jürgen Scherer
+1001,Monika Sieverding
+1002,Henning Sußebach
+1003,Petra Pinzler;Mark Schieritz
+1004,Harold James
+1005,Heike Buchter;Frank Sieren
+1006,Joachim Wagner
+1007,Claas Tatje
+1008,Claas Tatje;Fritz Vorholz;Gero von Randow;Heike Buchter;Kolja Rudzio
+1009,Ludwig Siegele;Joachim Zepelin
+1010,Tanja Busse;Urs Willmann
+1011,Florian Werner
+1012,Thomas Nawrath;Ulrich Schnabel
+1013,Sven Stockrahm
+1014,Kurt Drawert
+1015,Sabine Horst
+1016,Dieter Buhl
+1017,Finis
+1018,Matthias Geis;Bernd Ulrich
+1019,Georg Blume;Angela Köckritz
+1020,Heinrich Wefing;Jochen Bittner;Petra Pinzler
+1021,Dmitri Trenin
+1022,Thomas Assheuer;Patrik Schwarz
+1023,Martin Klingst;Michael Thumann
+1024,Patrick Kremers
+1025,Anna-Lena Ripperger;Heide Planas
+1026,Götz Hamann;Marcus Rohwetter
+1027,Lars Reppesgaard
+1028,Kai Biermann
+1029,Michael Müller
+1030,Christine Weißenborn
+1031,Christina Gerth
+1032,Nike Heinen
+1033,Alexander Stirn
+1034,Rabea Weihser
+1035,Binyavanga Wainaina
+1036,Etgar Keret
+1037,Susanne Schmetkamp
+1038,Pia Volk
+1039,Katrin Brinkmann
+1040,Gisela Dachs; Michael Thumann
+1041,Rainer Frenkel
+1042,Miltiadis Oulios
+1043,Matthias Krupa;Petra Pinzler
+1044,DIE ZEIT
+1045,Peter Dausend;Brigitte Fehrle
+1046,Geo von Randow
+1047,siebels
+1048,Mark Brost
+1049,Mark Schieritz; Arne Storn
+1050,Jutta Hoffritz;Rüdiger Jungbluth
+1051,Ulrich Viehöver
+1052,Wiebke Schönbohm-Wilke
+1053,Marlene Weiss
+1054,Arno Frank
+1055,Kathleen Fietz
+1056,Ulla Hanselmann
+1057,Tim Parin;Christian Parth
+1058,Christoph Seils
+1059,Adam Krzeminski
+1060,Melanie Draude
+1061,Stephan Lebert;Stefan Willeke
+1062,Petra Pinzler;Claas Tatje;John F. Jungclaussen;Gero von Randow;Petra Pinzler
+1063,Karin Finkenzeller
+1064,CME
+1065,Jan Freitag
+1066,Güven Purtul
+1067,Giovanni di Lorenzo;Claus Spahn
+1068,Thomas Hoheisel
+1069,Juri Andruchowytsch
+1070,Markus Zinsmaier
+1071,Kathrin Kirstein
+1072,Florian Elsemüller
+1073,Shimon Stein
+1074,pat
+1075,JimÈnez
+1076,Marc Brost;Peter Dausend
+1077,werner bohn
+1078,Thomas von Lüpke
+1079,Henning Hoff
+1080,Peter Wirtz
+1081,Peter Dausend;Mark Schieritz
+1082,Karl-Friedrich Kassel
+1083,Andrea Böhm;Ulrich Ladurner
+1084,Birgit Schonau
+1085,Peter Heinrich Dausend
+1086,Alexander Dietz
+1087,JvR
+1088,Marc Brost;Marcus Rohwetter
+1089,Gesa Kessemeier
+1090,Marc Brost; Marcus Rohwetter
+1091,Kathrin Röggla
+1092,Adam Michnik
+1093,Stefan Koldehoff
+1094,Ian Buruma
+1095,Christian Kortmann
+1096,Roland  Müller
+1097,Heike Kunert
+1098,Jürgen Lüthje
+1099,Kerstin Schneider
+1100,Mattthias Meili; Peer Teuwsen
+1101,Annabel Wahba
+1102,jr; luy; bit
+1103,Christian Denso;Thomas E. Schmidt;Heinrich Wefing
+1104,Birigit Schoenau
+1105,Jürgen Schlachter
+1106,Ursula von der Leyen
+1107,Wolfgang Gehrmann;Claas Tatje
+1108,Elisabeth Niejahr;Gunter Hofmann
+1109,Lukas Hässig
+1110,Susanne Kailitz
+1111,Stefan Mˆrsdorf
+1112,Axel Bojanowski
+1113,Björn Schwentker
+1114,Michael Kohtes;Martin Maria Kohtes
+1115,Antonio Caballero
+1116,Jürgen Ziemer
+1117,Georg Seeßlen
+1118,Ludwig Harig
+1119,Dirk Peitz
+1120,Klaus Klemm
+1121,Günter Schabowski
+1122,Priscilla Imboden
+1123,Hans-Jochen Jaschke
+1124,Marc Brost; Matthias Krupa
+1125,Erich Maletzke
+1126,adrian lobe
+1127,Sabine Rückert;Stefan Willeke
+1128,Anita Blasberg;Marian Blasberg
+1129,Redaktion
+1130,Christine Weissenborn
+1131,Chriostian Tenbrock
+1132,Dieter Schlatermund
+1133,pt;ThomasFischermann
+1134,Ann-Dorit Boy
+1135,Chrstiane Grefe
+1136,Gerhard Jörder
+1137,Nicolas Büchse
+1138,Christian Denso; Martin Spiewak
+1139,Tim Farin;Christian Parth
+1140,Chrstian Denso
+1141,Bernhard Pötter
+1142,Von Michael Jürgs
+1143,Die Zeit
+1144,Cameron Abbadi
+1145,Toralf Staud
+1146,Dietrich Sperling
+1147,J¸rgs
+1148,Bruno Kammertöns;Stephan Lebert
+1149,Christian Meier
+1150,Michael Blumenthal
+1151,Burkhard Spinnen
+1152,Jean-Remy von Matt
+1153,Eva-Maria Thoms
+1154,Martin Lindner
+1155,Ai Weiwei
+1156,Norbert Frei
+1157,Anna Kemper
+1158,Helen Behn
+1159,Leon de Winter
+1160,Christa Wolf
+1161,Anitav Blasberg;Kerstin Kohlenberg;Elisabeth Niejahr
+1162,Thomas Fischermann;Mark Schieritz;Frank Sieren
+1163,Dorothea Heintze
+1164,Andrea Rehmsmeier
+1165,Heike Buchter;Carmen Dautzenberg
+1166,Ilja Trojanow
+1167,Karl Bruckmaier
+1168,Martina Züger
+1169,Matthias Geis;Martin Klingst
+1170,Jochen Bittner;John F. Jungclaussen
+1171,Jörg Lau;Peter Dausend
+1172,Erwin Maletzke
+1173,Elisabeth Knoblauch
+1174,Dietrich Strothmann
+1175,Ezzedine Choukri-Fishere
+1176,Peter Burri;Peer Teuwsen
+1177,Alice Bota;Henning Sussebach;Stefan Willeke
+1178,Elisabeth Niejahr;Dagmar Rosenfeld
+1179,Stefanie Bilen
+1180,Kathrin Burger
+1181,Francesca Viscone
+1182,Ijoma Mangold
+1183,Iris Mickein
+1184,Ludger Wössmann
+1185,Lina Timm
+1186,Paul Handley
+1187,Alice Schwarzer
+1188,Marc Brost;Wolfgang Uchatius
+1189,Andreas Dresen
+1190,Karin Ceballos Betancour
+1191,Jochen Hung
+1192,Kathrin Wanke
+1193,Marc Brost;Matthias Krupa
+1194,Janusz Reiter
+1195,Carla Baum
+1196,Ulrich Bahnsen;Nicola Kuhrt
+1197,Ursula März
+1198,Gerhard  Pretting
+1199,Stefan Kühl
+1200,Julia Scholter
+1201,Moritz Müller-Wirth
+1202,Ulrich Jonas
+1203,Malik Kaspar
+1204,Uwe Seeler
+1205,Christian Pfeiffer
+1206,Stefan Schlögl
+1207,Rudolf Walther
+1208,Kolja Rudzio;Christian Tenbrock
+1209,Marc Brost;Dietmar H. Lamparter;Johannes Voswinkel
+1210,Thomas Fischermann;Mark Schieritz
+1211,Georg Baselitz
+1212,Wolfgang Büscher;Florian Illies
+1213,Alexander Kluge
+1214,Peaches
+1215,Ingo Schulze
+1216,Moritz Rinke
+1217,Stephan Kimmig
+1218,Adam Soboczynski
+1219,Jan Ross;Patrik Schwarz
+1220,Christoph Dieckmann;Matthias Geis
+1221,Horst Dreier
+1222,Fitz J. Raddatz
+1223,Tobias Romberg
+1224,Dietmar H. Lamparter;Birgit Schönau
+1225,Götz Hamann;Rüdiger Jungbluth
+1226,Dorothea Böhm
+1227,Felix Rohrbeck
+1228,Reto U. Schneider
+1229,Benedikt Erenz
+1230,Gunter Hofmann;Matthias Krupa
+1231,Peter Dausend;Dagmar Rosenfeld
+1232,Stephan Leibfried
+1233,Egon Bahr
+1234,Marian Blasberg; Roman Pletter
+1235,Marc Brost;Mark Schieritz;Arne Storn
+1236,Kolja Rudzio;Elisabeth Niejahr
+1237,Günter Heismann
+1238,Max Rauner; UlrichSchnabel
+1239,Steffan Heuer
+1240,Isa Hoffinger
+1241,Sandra Roth
+1242,Linda Tutmann
+1243,Matthias Geis;Heinrich Wefing
+1244,Özlem TopÇu
+1245,Günter Grass
+1246,Marc Brost;Uwe Jean Heuser
+1247,Marc Brost;Petra Pinzler
+1248,Peter Korneffel
+1249,Ingrid Herden
+1250,Frauke Hinrichsen
+1251,Von Katja Nicodemus
+1252,Alberto Manguel
+1253,Klaus Harpprecht
+1254,Frank Zöllner
+1255,Katajun Amirpur
+1256,Christian Denso; Thomas E. Schmidt
+1257,Irene Khan
+1258,Wibke Bruhns
+1259,Anne Grüttner
+1260,Irene Berres
+1261,Götz Aly
+1262,Christian Demand
+1263,Stéphanie Souron
+1264,John A. Kantara
+1265,Matthias Uhl
+1266,Erich Loest
+1267,Lukas kapeller
+1268,Petra Schäfer
+1269,Constanze Sanders
+1270,Paul Levi
+1271,Walter Grasskamp
+1272,Ira Mazzoni
+1273,Ayaan Hirsi Ali
+1274,Wolf Biermann
+1275,Uwe Jean Heuser;Fritz Vorholz
+1276,Gerd Koenen
+1277,Sven Siedenberg
+1278,Peter Schneider
+1279,Peter Dausend;Matthias Geis
+1280,Robin Celikates;Hilal Sezgin
+1281,Claas Tatje;Christiane Grefe
+1282,Peer Teuwsen;Claude Baumann
+1283,Eberhard Falcke
+1284,Karin Schick
+1285,Sarah Elsing
+1286,Navid Kermani
+1287,Gesine Schwan
+1288,Johannes Heer
+1289,Jan-Martin Wiarda;Martin  Spiewak
+1290,Hartmut  Rosa
+1291,Andrea Hünniger
+1292,Jan Ross; Johannes Voswinkel
+1293,Marianne Birthler
+1294,Antje Vollmer
+1295,Alice Bota;Kerstin Kohlenberg;Heinrich Wefing
+1296,Niall Ferguson
+1297,Heike Buchter;John F. Jungclaussen;Gero von Randow
+1298,Heike Faller
+1299,Ulrich Schnabel;Jens Uehlecke
+1300,Durs Grünbein
+1301,Joey Goebel
+1302,Margo Jefferson
+1303,Klaus Kanzog
+1304,David Hugendick
+1305,Wenke Husmann
+1306,Manfred Schwarz
+1307,Andrea Hünninger
+1308,Johanna Schoener
+1309,Nadja Kirsten
+1310,Martin Walser
+1311,Joschka Fischer
+1312,Michael Stiller
+1313,Ulrich Ladurner;Birgit Schönau
+1314,Ulrich Ladurner und Schönau
+1315,Thomas Fischermann;Helene Laube;Dietmar H. Lamparter;Johannes Voswinkel
+1316,Kerstin Bund; Anna Marohn
+1317,Ferdinand Dudenhöffer
+1318,Josephina Maier; Achim Wüsthof
+1319,Christoph Drösser;Stefan Schmitt
+1320,Eberhard Straub
+1321,Edgar Wolfrum
+1322,Brigitte Jakobeit
+1323,Stephan Weichert;Leif Kramp
+1324,Christian Denso;Martin Spiewak;Michael Thumann;Bernd Ulrich
+1325,Henrik Scheider
+1326,David Selbach
+1327,Andreas Sentker;Jens Uehlecke
+1328,Wolfgang Lechner
+1329,Gregor Gysi
+1330,Harald Martenstein
+1331,Robert E. Norton
+1332,Jürgen Habermas
+1333,Kito Nedo
+1334,Tina Hildebrandt;Stephan Lebert
+1335,Roberto Saviano
+1336,Claus Leggewie
+1337,Michael Allmaier
+1338,Roger Willemsen
+1339,Götz Hamann;Elisabeth Niejahr
+1340,Anke Domscheit
+1341,Marc Brost;Heike Buchter
+1342,Ulrich Hottelet
+1343,Stefan Schmitt;Harro Albrecht
+1344,Collum McCann
+1345,Herta Müller
+1346,Mertem Worthmann
+1347,Frank-Walter Steinmeier
+1348,Julia Nolte
+1349,Andrea Böhm;Christian Denso
+1350,Helmut Schümann
+1351,Dagmar Rosenfeld;Thomas E. Schmidt
+1352,Jacob Heilbrunn
+1353,Ferdos Forudastan
+1354,Günter Wallraff
+1355,Heike Buchter;Thomas Fischermann;Mark Schieritz;Frank Sieren;Johannes Voswinkel
+1356,Tim Linde
+1357,Claude Haas
+1358,Arnon Grunberg
+1359,Dierich Diederichsen
+1360,Gary Schwartz
+1361,Petra Pinzler;Patrik Schwarz
+1362,Marc Brost;Dagmar Rosenfeld
+1363,Sanam Vakil
+1364,Volker Schlöndorff
+1365,Peter Dausend;Henning Sußebach
+1366,Mark Schieritz;Thomas Fischermann
+1367,Stephen Green
+1368,Irene Berres;Christoph Drösser
+1369,Ilija Trojanow; Juli Zeh
+1370,Bigit Lahann
+1371,Anne Leweke
+1372,Roger M. Buergel
+1373,Elena Lappin
+1374,Daniel Völzke
+1375,Hartwin Brandt
+1376,Winfried Schulze
+1377,Jürgen Busche
+1378,Gabriele Venzky
+1379,Götz Hamann;Markus Albers
+1380,Karen Naundorf
+1381,Ijoma Mangold;Adam Soboczynski
+1382,Detlef Kuhlbrodt
+1383,Luca di Blasi
+1384,Christiane Gaehtgens
+1385,Steffen Dobbert
+1386,Akram Baker
+1387,Marc Brost;Kerstin Bund
+1388,Anne-Kathrin Bronsert
+1389,Magdalena Hamm
+1390,Hendrik Pupat
+1391,Susanne Fischer
+1392,Stefan Heidenreich
+1393,K atja Nicodemus
+1394,Alice Bota; Heinrich Wefing
+1395,Khuê Pham
+1396,Heike Buchter;Marc Brost;Anna Marohn;Götz Hamann
+1397,Julica Jungehülsing
+1398,Andreas Rosenfelder
+1399,Gailus
+1400,Ulrich Schnabel;Thomas Assheuer
+1401,Tim Raue
+1402,Rainer B. Schossig
+1403,Bärbel Schwertfeger
+1404,Ulrich Kreikebaum
+1405,Norbert Blüm
+1406,Friedrich Schorlemmer
+1407,Ernst-Ludwig Winnacker
+1408,Daniel Kehlmann
+1409,Heike Solga
+1410,Kathrin Halfwassen
+1411,Jochen Bittner;Andrea Böhm;Christian Denso;Jörg Lau;Ulrich Ladurner;Heinrich Wefing
+1412,Simon Maxwell;Paul Engel;Dirk Messner;Pierre Schori
+1413,Sophie Hunger
+1414,Philip Faigle;Anna Marohn
+1415,Anne-Kathrin Bronsert;Wolfgang Gehrmann
+1416,Marcus Pfeil
+1417,Hanno Charisius
+1418,Richard David Precht
+1419,Marion Leske
+1420,Giovanni di Lorenzo;Bernd Ulrich
+1421,Christian Denso;Frank Drieschner
+1422,Michael Thumann;Annabel Wahba
+1423,Thea Dorn
+1424,Özlem Topcu
+1425,Cornelia Stolze
+1426,Thomas Fischermann; Kolja Rudzio; Elisabeth Niejahr
+1427,Marcus Rohwetter; John F. Jungclaussen
+1428,Gunthild Lütge
+1429,Marlen Weiss
+1430,Alexander Cammann
+1431,Dominik Barta
+1432,Otto Ruths
+1433,Anna Marohn; Christian Tenbrock
+1434,Martin Spiwak
+1435,Christian Staas
+1436,Axel Honneth
+1437,Sven  Behrisch
+1438,Christina Rietz
+1439,Simon Kerbusk
+1440,Rafael Buschmann
+1441,Jana Hensel
+1442,Henning Sußebach; Stefan Willeke
+1443,Marc Brost;Petra Pinzler;Elisabeth Niejahr;Fritz Vorholz
+1444,Thomas Fischermann;Uwe Jean Heuser
+1445,Ralph Pöhner;Peer Teuwsen
+1446,Harry  Rowohlt
+1447,Shirin Sojitrawalla
+1448,Christine Boehringer;Judith Scholter
+1449,Andrea Benda
+1450,Arnfrid Schenk;Jeannette Otto
+1451,Rüdiger Sinn
+1452,Dietmar Dath
+1453,Alexandra Endres
+1454,Jürgen Bröker;Urs Willmann
+1455,Max Rauner; Ulrich Schnabel
+1456,Wolfgang Kubin
+1457,Hans ten Doornkaat
+1458,Oliver Fuchs
+1459,IJOMA MANGOLD
+1460,Susanne Lothar
+1461,Klaus Klemm;Hans-Günter Rolff
+1462,Heike Wipperfürth
+1463,John Gray
+1464,Ulrike Meyer-Timpe;Wolfgang Uchatius
+1465,Mathew D. Rose
+1466,Nele Hansen
+1467,André Schmidt-Carré
+1468,Sven Giegold
+1469,Ulrich Clewing
+1470,Meike Fries
+1471,Christiane Grefe;Fritz Vorholz
+1472,Dagmar Rosenfeld;Heinrich Wefing
+1473,Paolo Flores d'Arcais
+1474,Herbert Hacker;Gerd Millmann
+1475,Wilfried Herz
+1476,Thomas Fischermann;Götz Hamann
+1477,Lothar Machtan
+1478,Maren Keller
+1479,Gudrun Lund
+1480,Gunter Hofmann; Jan Ross
+1481,Bodo Weber
+1482,Tina Hildebrandt;Dagmar Rosenfeld
+1483,Anita Blasberg;Roland Kirbach;Henning Sussebach
+1484,Dietmar H. Lamparter;Kolja Rudzio
+1485,Ulrich Bahnsen;Volker Stollorz
+1486,Ivo Maruszyk
+1487,Martina Meister
+1488,Maximiliam Probst
+1489,Johanna di Blasi
+1490,Marie Schmidt
+1491,Manuel J. Hartung;Thomas Kerstan
+1492,Julian Nida-Rümelin
+1493,Julia Kimmerle
+1494,Andrea Böhm;Frank Drieschner
+1495,Marc Brost;Peter Dausend;Christiane Grefe;Tina Hildebrandt;Jörg Lau;Dagmar Rosenfeld
+1496,Martin Klingst;Frank Sieren
+1497,Matthias Krupa;Stephan Lebert
+1498,Nicholas Carr
+1499,Stefan Collignon
+1500,Heike Buchter;Thomas Fischermann;Mark Schieritz
+1501,Uwe Jean Heuser;Rüdiger Jungbluth
+1502,Alexander Busch
+1503,Herbert Walter
+1504,Sannah Koch
+1505,Michael Soukup
+1506,Christoph Drösser;Magdalena Hamm
+1507,Florian llies
+1508,Christian Maquart
+1509,Fritz Vorholz;Matthias Geis
+1510,Matthew Hoh
+1511,Roman Pletter
+1512,Hella Kemper
+1513,Dietmar H Lamparter
+1514,Manfred Sack
+1515,Uwe Jean Heuser;Gero von Randow
+1516,Felix Wadewitz
+1517,Margrit Gerste
+1518,Hofmann Gunter
+1519,Georg Seesslen
+1520,Renate Klett
+1521,Sebastian Litta
+1522,Christine Dohler
+1523,Giovanni di Lorenzo; Bernd Ulrich
+1524,Angela Köckritz;Thomas Fischermann
+1525,Waltraud Taschner
+1526,Matt Browne;John Halpin;Ruy Teixeira
+1527,Ulrich  Bahnsen
+1528,Marc Brost;Hanns-Bruno Kammertöns;Mark Schieritz;Arne Storn
+1529,Götz Hamann;Arne Storn
+1530,Kerstin Bund;Felix Wadewitz
+1531,Petra Riedel
+1532,Dagny Lüdemann
+1533,Florian Illies;Stefan Koldehoff
+1534,Johann Hinrich Claussen
+1535,Frank Maier-Solgk
+1536,Christina Schott
+1537,Tina Hildebrandt;Thomas E. Schmidt
+1538,Victor Sebestyen
+1539,Martin Machowecz
+1540,Dieter von Holtzbrinck
+1541,Anita Blasberg; Götz Hamann
+1542,Uwe Jean Heuser;Elisabeth Niejahr
+1543,Justus Bender
+1544,Harro Albrecht;Ulrich Schnabel
+1545,Maren Nelly Keller
+1546,Jörg Lau;Tina Hildebrandt
+1547,Angela Köckritz;Peer Teuwsen
+1548,Markus Rohwetter
+1549,Rainer Esser
+1550,Dietmar H. Lamparter;Fritz Vorholz
+1551,Heike Buchter;Kolja Rudzio
+1552,Jörn Klare;Bartholomäus Grill;Frank Sieren;Johannes Voswinkel;Reiner Luyken;Georg Blume
+1553,Margaret  Atwood
+1554,Katharina Wagner
+1555,Ewald Terhart
+1556,Matthias Krupa; Martin Spiewak
+1557,Gero v. Randow
+1558,Marc Brost;Uwe-Jean Heuser;Mark Schieritz
+1559,Harro Abrecht
+1560,Annette Lettau
+1561,Hauke Brunkhorst
+1562,Arnfrid Schenk;Jan-Martin Wiarda
+1563,Ulrike Heitmüller
+1564,Matthias Geis;Jörg Lau
+1565,Urs Willmann;Peer Teuwsen
+1566,Mark Schieritz;Claas Tatje
+1567,Götz Hamann;Christian Tenbrock
+1568,Boris Groys
+1569,Boris von Haken
+1570,Ulrich Ladurner;Michael Thumann
+1571,Heiko Geue
+1572,Erwin Merker
+1573,Thomas Fischermann;Petra Pinzler
+1574,Kristina Maroldt
+1575,Rüdiger Jungbluth;Mark Schieritz;Mark Brost;Dietmar H. Lamparter
+1576,Susanne Schäfer
+1577,Hanno Rauterberg;Peter Kümmel;Elisabeth von Thadden;Thomas Assheuer;Ijoma Mangold
+1578,Martin Mosebach
+1579,Julia  Schoch
+1580,Senta Höfer
+1581,Dirk Horstkötter
+1582,Lutz Wingert
+1583,Tilman Baumgärtel
+1584,Christian Welzbacher
+1585,Andreas Maier
+1586,Philipp Blom
+1587,Sandra Schmid
+1588,Andrea Böhm;Bernd Ulrich
+1589,Jan Ross;Martin Klingst
+1590,Kerstin Kohlenberg;Mark Schieritz;Wolfgang Uchatius
+1591,Dirk Asendorpf;Stefan Schmitt
+1592,Thomas Assheuer;Florian Illies;Peter Kümmel;Hanno Rauterberg
+1593,Peter Raue
+1594,Bernd Ulrich;Özlem Topcu;Heinrich Wefing
+1595,Özlem Topcu;Heinrich Wefing
+1596,Angela Köckritz;Frank Sieren
+1597,Peter Dausend;Ulrich Ladurner
+1598,Reinhard Merkel
+1599,Marc Brost;Elisabeth Niejahr
+1600,Dirk Engelhardt
+1601,Sascha Mattke
+1602,Magdalena Hamm;Stefan Schmitt
+1603,Kettly Mars
+1604,Cees Nooteboom
+1605,Christian Schuler
+1606,Jan-Martin Wiarda;Jeannette Otto;Judith Scholter;Arnfrid Schenk
+1607,Tina Hildebrandt;Jan Ross
+1608,Martin van Creveld
+1609,Elisabeth Niejahr;Kolja Rudzio;Wolfgang Uchatius
+1610,Michael Sommer
+1611,Rüdiger Jungbluth;Mark Schieritz
+1612,Christoph Hus
+1613,Heike Buchter;Mark Schieritz
+1614,Andreas  Rosenfelder
+1615,Wolfgang Meyer-Hesemann
+1616,Patrik Schwarz;Jan-Martin Wiarda
+1617,Klaus Naumann
+1618,Uwe Jean Heuser;Mark Schieritz
+1619,Marc Brost;Rüdiger Jungbluth
+1620,Markus Albers;Christian Meier
+1621,Götz Hamann;Kerstin Bund
+1622,Ulrich Schnabel;Martin Spiewak
+1623,Hans Schuh;Maria Rossbauer;Magdalena Hamm;Stefan Schmitt
+1624,Peter Handke
+1625,Thomas Meyer
+1626,Jonas Leppin
+1627,Marc Brost;Fritz Vorholz
+1628,Christian Denso;Heinrich Wefing
+1629,Liu Xiaobo
+1630,Sabine Rückert;Ulrich Schnabel;Henning Sussebach;Heinrich Wefing
+1631,Dana Heide
+1632,Hartmut Hirsch-Kreinsen;Engelbert Westkämper
+1633,Michael Blume
+1634,Beat Wyss
+1635,Louisa Reichstetter
+1636,Klaus Englert
+1637,Gabriele Behler
+1638,Bernhard Bueb
+1639,Ulrich Ladurner;Jan Ross
+1640,Matteo Fagotto;Ugo Borga;Giampaolo Musumeci
+1641,Helmut Schmidt;Fritz Stern
+1642,Bröckelmann-Simon
+1643,Mark Schieritz;Petra Pinzler
+1644,Dieter Wermuth
+1645,Alina Fichter
+1646,Ulrich Bahnsen;Bartholomäus Grill
+1647,Jürgen Graf
+1648,Annabel Wahba;Christine Meffert
+1649,Cornelius Pollmer
+1650,Christian Lindner
+1651,Gisela Dachs;Christian Denso
+1652,Tobias Bütow
+1653,Siegfried Stadler
+1654,Bernhard Fischer-Appelt
+1655,Ines Karschöldgen;Dietmar H. Lamparter;Felix Wadewitz
+1656,Eva Busse
+1657,Nicol Kuhrt;Ulrich Bahnsen
+1658,Klaus-Michael Kodalle
+1659,Martin Warnke
+1660,Elisabeth Raether
+1661,Moritz Baumstieger
+1662,Peter Dausend;Tina Hildebrandt
+1663,Birgit Svensson
+1664,Saba Farzan
+1665,Anita Blasberg; Stefan Willeke
+1666,Thomas Fischermann;Uwe Jean Heuser;Mark Schieritz
+1667,Frank Fischer
+1668,Otmar Issing
+1669,Helmut K. Anheier
+1670,Maria Rossbauer
+1671,Christoph Drösser;Maria Rossbauer
+1672,Martin Seel
+1673,IM Lempel
+1674,Stefan Schirmer;Cornelius Pollmer
+1675,Michael Kraske
+1676,Stefano Vastano
+1677,Ivo H. Daalder
+1678,Steffen Arora;Florian Gasser
+1679,Arne Storn;Karin Ceballos Betancur
+1680,Heribert Dieter
+1681,Gero von Randow;Claas Tatje;Hans Schuh
+1682,Astrid Viciano
+1683,Dieter Borchmeyer
+1684,Bertram Kaschek
+1685,Nicholas Boyle
+1686,Felix Rauner
+1687,Jutta Allmendinger
+1688,Anna von Münchhausen
+1689,Peter Dausend;Jörg Lau
+1690,Hermann Gröhe
+1691,Gisela Dachs;Martin Klingst
+1692,Stephan Lebert; Stefan Willeke
+1693,Marc Brost;Petra Pinzler;Mark Schieritz
+1694,Sandro Gaycken
+1695,Julia Groth
+1696,Burkhard Wetekam
+1697,Martin Spiewak; Jan-Wiarda Wiarda
+1698,Jürgen Overhoff
+1699,Claudia Steinberg
+1700,Thomas Kerstan; Martin Spiewak
+1701,Jeannette Otto; Martin Spiewak
+1702,Michael Thumann;Özlem Topcu
+1703,Ulrich Ladurner;Birigt Schönau
+1704,Michael Zürn
+1705,Jana Simon;Stefan Willeke
+1706,Hartmut von Hentig
+1707,Alexander Camman
+1708,Thomas Fischermann;Petra Pinzler;Mark Schieritz;Gero von Randow;Frank Sieren;Claas Tatje
+1709,John F. Jungclaussen;Christian Tenbrock
+1710,Klaus Schweinsberg
+1711,Thomas Fischermann;Mark Schieritz;Petra Pinzler
+1712,Ulrich Bahnsen;John Kantara
+1713,Brigitte Kronauer
+1714,Helmut Pape
+1715,Matthias Geis; Marc Brost
+1716,Martin Klingst;Patrik Schwarz
+1717,Anne-Marie Le Gloannec
+1718,Joel Kotkin
+1719,Zafer Senocak
+1720,Johannes Schweikle
+1721,Martin Klingst;Patrik Schwarz;Miguel Zamorano
+1722,Martin Klingst;Ulrich Ladurner
+1723,Tommaso Padoa-Schioppa
+1724,Ian Kershaw;Michael Adrian
+1725,Philip Faigle
+1726,Anne Kunze
+1727,Cornelia Reichert
+1728,Max Rauner;Tobias Hürter;Ulrich Schnabel
+1729,Uwe Tellkamp
+1730,Thomas Ramge
+1731,Katrin Hörnlein
+1732,Josef joffe
+1733,Johannes von Dohnanyi
+1734,Patrik Schwarz;Georg Fahrion
+1735,Johannes Kandel
+1736,Werner Schneyder
+1737,Torsten Hampel
+1738,Thomas Speckmann
+1739,Kerstin Bund;Thomas Fischermann; Frank Sieren
+1740,Götz Hamann; Dietmar H.Lamparter
+1741,Hans Joachim Schellnhuber;Claus Leggewie;Renate Schubert
+1742,Gerd Eisenbeiss
+1743,Frauke Lüpke-Narberhaus
+1744,Mareike Aden
+1745,Günter M. Ziegler
+1746,Katja Nicodemus;Christof Siemes
+1747,Johann Baptist Metz
+1748,Silke Scheuermann
+1749,Peter Dausend; Jörg Lau; Heinrich Wefing
+1750,Jan Roß
+1751,Manfred Kriener
+1752,Nina Pauer
+1753,Sarah Khan
+1754,Maren Kroymann
+1755,Lennart Herberhold
+1756,Tarek Al-Wazir
+1757,Serpil Pak
+1758,Zafer Şenocak
+1759,Heinz Buschkowsky
+1760,Dunja Hayali
+1761,Meinhard Miegel
+1762,Henning Sietz
+1763,Marc Brost;Arne Storn;Claas Tatje
+1764,Ruth Helmling;Jana Brenner
+1765,Manfred Lahnstein
+1766,Tobias Niemann;Burkhard Strassmann
+1767,Ulf Meyer
+1768,Helene Hegemann
+1769,Ronald Düker
+1770,Florian Zimmer-Amrhein
+1771,Thilo Guschas
+1772,Uta Ranke-Heinemann
+1773,Christoph Siemes
+1774,Jacques-Pierre Gougeon
+1775,Alina Schadwinkel
+1776,Marius Müller-Westerhagen
+1777,Christof Siemes.
+1778,Markus Dröge
+1779,Ludwig Hasler;Remo Largo;Simonetta Sommaruga;Margrit Sprecher;Daniele Muscionico;Bruno S. Frey;Roger de Weck;Martin A. Senn;Walter Wittmann;Muammar al-Gadhafi
+1780,Michael Thumann;Gero von Randow
+1781,Christian Tomuschat
+1782,Ronald D. Gerste
+1783,Viola Keeve
+1784,Robert Saemann-Ischenko
+1785,Moritz von Uslar
+1786,Martin Spiewak;Jörg Lau
+1787,Hanns Zischler
+1788,SAID
+1789,Harro Müller-Michaels
+1790,Gero von Randow;Petra Pinzler
+1791,Klaus J. Bade
+1792,Burkhard Hirsch
+1793,Carolin Emcke;Wolfgang Uchatius
+1794,Christia Staas
+1795,Tobias Hürter;Max Rauner
+1796,Kerstin Bund;Kolja Rudzio
+1797,Pierre-Christian Fink
+1798,Georg Fahrion
+1799,Thomas Vilgis
+1800,Cornelius Lange;Fabian Lange
+1801,Carolin Ströbele
+1802,Hans Belting
+1803,Nina May
+1804,Gotthold Hasenhüttl
+1805,Helmut Schmidt;Giscard d'Estaing
+1806,Alice Bota;Jochen Bittner
+1807,Johannes Vogel
+1808,Kurt Daniel Stahl
+1809,Götz Hamann;Uwe Jean Heuser
+1810,Siegfried Jaschinski;Ursula Rombeck-Jaschinski
+1811,Thomas Jahn
+1812,Laura Himmelreich
+1813,Markus M. Häfliger
+1814,Claudia Wüstenhagen
+1815,Eva-Maria Schnurr
+1816,Arthur L. Caplan
+1817,Michael Lange
+1818,Rainer Moritz
+1819,Stefan Münker
+1820,Ulrich Greiner;Iris Radisch
+1821,Wolfgang Kraushaar
+1822,Dörte Bluhm
+1823,Christoph Amend
+1824,Katja Lüthge
+1825,Eckart Kleßmann
+1826,Gustav A. Horn;Michael Hüther
+1827,Tanja Dückers
+1828,Tina Hildebrandt;Elisabeth Niejahr
+1829,Shahram Najafi;Charlotte Wiedemann
+1830,Wolfgang Ischinger
+1831,Otto Schily
+1832,Lukas Axiopoulos
+1833,Michail Krausnick
+1834,Claas Tatje;Gunhild Lütge
+1835,Carolin Emcke;Jan Ross
+1836,Gregor Henckel Donnersmarck
+1837,Phil Baty
+1838,Johannes Voswinkel;Andrea Böhm
+1839,Joanna Rother
+1840,Tony Judt
+1841,Christian Schüle und Özlem Topcu
+1842,Angela Köckritz;Arne Storn
+1843,John F. Jungclaussen;Martin Klingst
+1844,Friedrich Heinemann
+1845,Stefan Berkholz
+1846,Andreas Menn
+1847,Andrea Hanna Hünniger
+1848,Maximilian Probst
+1849,Norbert Denef
+1850,Matthias Geis;Matthias Nass
+1851,Mariam Lau
+1852,Frank Decker
+1853,Stefan Wolter
+1854,Peter Bofinger
+1855,Martin Spiewak;Thomas Kerstan
+1856,Tina Hildebrandt; Stephan Lebert
+1857,Karsten Rudolph
+1858,Sabine Leutheusser-Schnarrenberger
+1859,Hernando de Soto
+1860,Annick Eimer
+1861,Sebastian Frenzel
+1862,Wladimir  Kaminer
+1863,Alexander Sambuk
+1864,Katja Schönherr
+1865,Daniel Schulz
+1866,Marcus Rohwetter;Heike Buchter
+1867,Inge Feltrinelli
+1868,Ralph Geisenhanlüke
+1869,Herfried Münkler
+1870,Christoph Keller
+1871,Axel Estein
+1872,Bernd  Kramer
+1873,Jutta Ditfurth
+1874,Katharina Ober
+1875,Afra Schick
+1876,Jens Jessen;Frank Drieschner
+1877,Steffen Mau
+1878,Emanuel Eckardt
+1879,Thomas Fischermann;Angela Köckritz
+1880,Johanna Di Blasi
+1881,Christa Pfafferott
+1882,Mariam Lau;Matthias Krupa
+1883,Denis Olivennes
+1884,Jörg Schweigard
+1885,David Oels
+1886,Johannes Gernert
+1887,Tim Engartner
+1888,Daniela Meyer
+1889,Michael de Ridder
+1890,Christoph Drösser;Frauke Lüpke-Narberhaus
+1891,Balz Spörri
+1892,Willi Jasper
+1893,Lisa Srikiow
+1894,Stefan Schirmer
+1895,Jörg Lau;Jochen Bittner
+1896,George Soros
+1897,Kirsten Brodde
+1898,Wilhelm Adamy
+1899,Eckhard Nagel
+1900,Henning Kober
+1901,Iljoma Mangold
+1902,Matteo Fagotto
+1903,Peter Rawert
+1904,Götz  Hamann
+1905,Kerstin Bund;Arne Storn
+1906,Nadine Oberhuber
+1907,Martin Spiewak;Jeannette Otto
+1908,Verena Auffermann
+1909,Daniele Muscionico
+1910,Roman Grafe
+1911,Stephen Tree
+1912,Stephan Russ-Mohl
+1913,Ludger Lütkehaus
+1914,Thomas Kerstan;Christoph Siemes
+1915,Thomas Kerstan;Georg Etscheit
+1916,Kilian Kirchgeßner
+1917,Hansjörg Strohmeyer
+1918,Rolf J. Langhammer
+1919,Wilfried Bommert
+1920,Zacharias Zacharakis
+1921,Helmut Anheier
+1922,Benjamin Reuter
+1923,Peter Eisenman
+1924,Evelyn Finger;Ijoma Mangold
+1925,Esther Goebel
+1926,Sebastian Schneider
+1927,Peter Dausend/Mariam Lau
+1928,Bernd Ulrich;Özlem Topcu
+1929,Mohsin Hamid
+1930,Antonio Puri Purini
+1931,Juliane Schiemenz
+1932,Lutger Lütkehaus
+1933,Claas Taatje
+1934,Ulla Unseld-Berkéwicz
+1935,Sven Heitkamp
+1936,Karl-Rudolf Korte
+1937,Christoph Barthe
+1938,Doris Liebermann
+1939,Mark Schieritz;Heike Buchter;Arne Storn
+1940,Kolja Rudzio;Uwe Jean Heuser
+1941,Pierre Christian Fink
+1942,Ulrich Bahnsen;Martin Spiewak;Stefan Schmitt
+1943,Elsbeth Stern
+1944,Michael Stang
+1945,Ulrich Bahnsen;Martin Spiewak
+1946,Beate Köhne
+1947,Martin Wehrle
+1948,Martin Klingst;Jörg Lau
+1949,Matthias Geis;Tina Hildebrandt
+1950,Ulrich Chaussy
+1951,Josef Stelzer
+1952,Fabio Bergaminer
+1953,Florian Illies;Ijoma Mangold
+1954,Nicole Basel
+1955,Bernd Ulrich;Heinrich Wefing
+1956,Sigmar Gabriel
+1957,Peter Nonnenmacher
+1958,Thomas Ruttig
+1959,Karl-Markus Gauss
+1960,Wolfgang Zank
+1961,Marc Brost;Petra Pinzler;Fritz Vorholz
+1962,Marcus Rohwetter;Claas Tatje
+1963,Ernst Peter Fischer
+1964,Hubert Winkels
+1965,Felix Rettberg
+1966,Jörg Lau;Gero von Randow;Jochen Bittner
+1967,Naika Foroutan
+1968,Thomas Morlang
+1969,Petra Pinzler;Fritz Vorholz
+1970,John F. Jungclaussen;Gero von Randow
+1971,Stefan Wolle
+1972,Mark Schieritz;Arne Storn
+1973,Dieter Schlesak
+1974,Katharina Miklis
+1975,Thorsten Schröder
+1976,Swantje Wallbraun
+1977,Michael Thumann;Matthias Krupa
+1978,Ulrich Ladurner;Khuê Pham
+1979,Gadi Taub
+1980,Jürgen Wasem
+1981,Julia Groth;Olaf Wittrock
+1982,Sebastian Dullien
+1983,Helmut Böttiger
+1984,Sven Stillich
+1985,Christian Denso;Ulrich Ladurner
+1986,Rilo Chmielorz
+1987,John F. Jungclaussen;Claas Tatje;Michael Thumann;Petra Pinzler;Mark Schieritz
+1988,Götz Hamann;Dietmar H. Lamparter
+1989,Silvia Wirth
+1990,Gesine Schwan;Berthold Huber;René Obermann
+1991,Ulrich Schnabel;Max Rauner
+1992,Armin Nassehi
+1993,Hans-Ulrich Wehler
+1994,Hans Brügelmann
+1995,Mariam Lau;Peter Dausend
+1996,Jörg Lau;Özlem Topcu
+1997,Brida von Castelberg
+1998,Olivia Kühni
+1999,Gerd Fesser
+2000,Stefan Schweiger
+2001,Christopher Kopper
+2002,Fritz Kuhn
+2003,Alexandra Aschbacher
+2004,Ina Hartwig
+2005,Jürgen Oelkers
+2006,Ralf Geißler
+2007,Anthony Giddens;Martin Rees
+2008,Marc Neller
+2009,Frank Keil
+2010,Benjamin Lahusen
+2011,Claus Leggewie;Dirk Messner
+2012,Fabina Lange;Cornelius Lange
+2013,Fabian Lange;Cornelius Lange
+2014,Arno Frank;Thomas Groß
+2015,Rüdiger Rossig;Boris Zujko
+2016,Siegfried Weischenberg
+2017,Sophie v. Maltzahn
+2018,Siegfried Lenz
+2019,Paul Scheffer
+2020,Wolfgang Bauer
+2021,Alexander Cammannn
+2022,Peter Spork
+2023,Heinz Ludwig Arnold
+2024,Marike Frick;Jan-Martin Wiarda
+2025,Christian Denso;Martin Klingst;Michael Thumann;Jochen Bittner
+2026,Aleksandra Dier
+2027,Nadine Ahr
+2028,Klaus J. Hennig
+2029,Elisabeth Niejahr;Leonie Seifert
+2030,Kerstin Bund;Götz Hamann
+2031,Andreas Hilmer
+2032,Marlene Roeder
+2033,Matthias Machnig
+2034,Sami Skalli
+2035,Thomas Groß;TobiasTimm
+2036,Tomasz Kurianowicz
+2037,Michael Skasa
+2038,Dieter Lenzen
+2039,Elisabeth Niejahr;Matthias Geis
+2040,Friederike Schröter
+2041,Bill Clinton
+2042,Konstantin Richter
+2043,Klaus A. Maier
+2044,John F. Jungclaussen;Claas Tatje
+2045,Stephan Heublein
+2046,Walter Tauber
+2047,Lorenzo Bini Smaghi
+2048,Ning Xiaoxiao
+2049,Stefan Schmitt;Heinrich Wefing
+2050,Christopher Pramstaller
+2051,Jochen Bittner;Peter Dausend
+2052,John F. Jungclaussen;Michael Thumann
+2053,Leonie Seifert
+2054,Christian Hönicke
+2055,Fritjof Meyer
+2056,Daniel Schönwitz
+2057,Katja Nicodemus;Christoph Siemes
+2058,Ulrich Greiner;Katja Nicodemus
+2059,Rolf Vollmann
+2060,Olga Martynova
+2061,Gisela Wysocki
+2062,Wiktor Jerofejew
+2063,Mischa Drautz
+2064,Brost/Pinzler
+2065,Michele Dunne;Amr Hamzawy
+2066,Berthold Huber
+2067,Susanne Wedlich
+2068,Benjamin Reuter;Toralf Staud
+2069,Karl Lippegaus
+2070,Johannes v. Dohnanyi
+2071,Jörg Lau;Michael Thumann;Bernd Ulrich
+2072,Martin Herzog
+2073,Dirk Messner;Claus Leggewie
+2074,Magdalena Hamm;Christoph Drösser
+2075,Peter Sloterdijk
+2076,Dominik Graf
+2077,Christian Petzold
+2078,Martin Spiewak;Jeannette Otto;Christopher Pramstaller
+2079,Judith Scholter;Christopher Pramstaller
+2080,Hanns W. Maull
+2081,Christoph Kleßmann
+2082,Michael Thumann;Uwe Jean Heuser
+2083,Claudia Reischauer
+2084,Joachim Starbatty
+2085,Jan Schweitzer
+2086,Franziska Badenschier
+2087,Sven Stockrahm;Ulrich Bahnsen;Harro Albrecht;Hans Schuh
+2088,Benjamin Balint
+2089,Christoph Möllers;Rainer Forst;Claus Leggewie;Gernot Böhme;Christoph Menke
+2090,Dominikus Müller
+2091,Mangold
+2092,Jan-Martin Wiarda;Joachim Riedl;Gero von Randow;Judith Scholter
+2093,Peter Wagner
+2094,Michael Nagel
+2095,Mark Schieritz;Uwe Jean Heuser
+2096,Adalbert Winkler
+2097,Werner Siefer
+2098,Botho Strauß
+2099,Ake Leweke
+2100,Wiebke Toebelmann
+2101,Ralf Meister
+2102,Kerstin Bund;Thomas Fischermann;Mark Spörrle
+2103,Hubertus Knabe
+2104,Jutta Göricke
+2105,Gerrit Gohlke
+2106,Martin Werle
+2107,Matthias Daum
+2108,Özlem Topcu;Matthias Krupa
+2109,Gery Nievergelt
+2110,Jan-Werner Müller
+2111,Clemens Meyer
+2112,Eduard Kaeser
+2113,Rafi Pitts
+2114,Michael Maar
+2115,Raier B. Schossig
+2116,Arnfrid Schenk;Justus Bender;Jan-Martin Wiarda;Alexandra Werdes
+2117,Peter Dausend;Elisabeth Niejahr
+2118,Hani Shukrallah
+2119,Marieluise Beck
+2120,Stephan Malinowski
+2121,Peter Wortsman
+2122,Kerstin Bund;Anna Marohn;Marcus Rohwetter;Christian Tenbrock;Götz Hamann;Mark Schieritz;Arne Storn;Uwe Jean Heuser;Thomas Fischermann;Dietmar H. Lamparter;Kolja Rudzio
+2123,Bernhard von Mutius
+2124,Helmut Kuhn
+2125,Ulrich Schnabel;Max Rauner;Stefan Schmitt;Christoph Drösser;Harro Albrecht
+2126,Björn Lohmann
+2127,Chris Löwer
+2128,Ulrich Pontes
+2129,Ulrich Greiner;Adam Soboczynski
+2130,Angela Köckritz;Thomas Groß;Christof Siemes;Susanne Mayer;Claus Spahn
+2131,Annegret Erhard
+2132,Jürgen Müller
+2133,Schwarz Manfred
+2134,Saskia Sassen
+2135,J. Schiemenz
+2136,Gunhild Lütge;Fritz Vorholz
+2137,Heike Buchter;Marcus Rohwetter
+2138,Hanns-Bruno Kammertöns;Dietmar H. Lamparter
+2139,John F. Jungclaussen;Hanns-Bruno Kammertöns;Dietmar H. Lamparter;Olaf Wittrock
+2140,Andreas Troge
+2141,Christoph Drösser;Götz Hamann
+2142,Nikolaus Bernau
+2143,Svantje Wallbraun
+2144,Sihem Bensedrine
+2145,Peter Schumann
+2146,Dörthe Gromes
+2147,Thomas Grasberger
+2148,Peer Steinbrück
+2149,Ronald Dworkin
+2150,Markus Baumanns
+2151,Amr Hamzawy
+2152,Norbert Lammert
+2153,Jana Hensel;Stefan Schirmer
+2154,Jens Christian Wagner
+2155,Kerstin Bund;Claas Tatje
+2156,Bernd Gäbler
+2157,Axel Plünneck
+2158,Jens Jessen;Katja Nicodemus
+2159,Eckhard Klieme;Manfred Prenzel
+2160,Martin Tschechne
+2161,Jan Roß;Bernd Ulrich
+2162,Michael Thumann;Julia Gerlach
+2163,Evgeny Morozov
+2164,Franziska Augstein
+2165,Berit Bliesemann de Guevara;Florian P. Kühn
+2166,Georg Blume;Uwe Jean Heuser
+2167,Franziska Bulban
+2168,Jochen Bittner;Martin Klingst;Jörg Lau
+2169,Alice Bota;Matthias Krupa
+2170,Wolfgang Thierse
+2171,Marc Brost;Matthias Geis
+2172,Jens Hohensee
+2173,Arne Storn;Mark Schieritz
+2174,Kolja Rudzio;Sophie Crocoll
+2175,Paul J. J. Welfens
+2176,Maximilian  Probst
+2177,Wedig von Heyden
+2178,Anna Gesine Kneifel
+2179,Carolin Pirich
+2180,Andreas Eckert
+2181,Uwe Schmidt
+2182,Kerstin Bund;Dietmar H. Lamparter
+2183,Thomas Fischermann;John F. Jungclaussen
+2184,Karen Dente
+2185,Gerd Maas
+2186,Alexander Picker;David Jackson;Stephan Brock
+2187,Robert Darnton
+2188,Joseph von Westphalen
+2189,Jan Lüttringhaus
+2190,Elisabeth Niejahr;Henning Sußebach
+2191,Gudrun Krämer
+2192,Klaus Kreiser
+2193,Markus Loewe;Mark Furness
+2194,Jana Schlütter
+2195,Wolfgang Krischke
+2196,Christiane Bender
+2197,Catalina Schröder
+2198,Marc Brost;Peter Dausend;Matthias Geis;Tina Hildebrandt;Mariam Lau;Elisabeth Niejahr;Petra Pinzler;Thomas E. Schmidt
+2199,Anna Kemper;Jan Ross
+2200,Felix Dachsel
+2201,Birgit Homburger
+2202,Andrea Böhm;Jochen Bittner;Martin Klingst
+2203,Hans-Jürgen Döscher
+2204,Birgit Schönau;Josef Joffe
+2205,Horst Wildemann
+2206,Sophie Crocoll
+2207,Jens Tönnesmann
+2208,Inge Kutter;Jan-Martin Wiarda
+2209,Johannes Thumfart
+2210,Papst Benedikt XVI.
+2211,Walter Homolka
+2212,Nora Gantenbrink
+2213,Bibi Tegzess;Bernd Ulrich
+2214,Monika Rinck;Marion Poschmann;Jan Wagner
+2215,Mariam Lau;Martin Spiewak;Özlem Topcu
+2216,Gerhard Streminger
+2217,Dirk Asendorpf;Christian Tenbrock
+2218,Heinz Buschkowsky;Gustav A. Horn;Hans-Werner Sinn;Nikolaus Schneider
+2219,Dieter Schweer
+2220,Helga Rietz
+2221,Thomas Trappe
+2222,Raymond Geuss
+2223,Marlene Halser
+2224,Angela Köckritz;Martin Klingst;Alice Bota;Michael Thumann;Johannes Voswinkel;Reiner Luyken;Gero von Randow
+2225,Hendrik Rost
+2226,Andreas Umland
+2227,Gero von Randow;Hans Schuh
+2228,Swetlana Alexijewitsch;Stefanie Flamm
+2229,Christiane Grefe;Götz Hamann;Rüdiger Jungbluth
+2230,Christoph M. Schwarzer
+2231,Jörg Buttgereit
+2232,Gernot Böhme
+2233,Siegfried Englert
+2234,Stefan Koldehoff;Tobias Timm
+2235,Silke Burmester
+2236,Marc Brost;Peter Dausend;Tina Hildebrandt
+2237,Sonoko Higaya
+2238,Nora Bossong;Monika Rinck
+2239,Ralf Höller
+2240,Thomas Fischermann;Dietmar H. Lamparter;Ines Karschöldgen-Matsuyama;Angela Köckritz;Mark Schieritz;Claas Tatje
+2241,Christian Tenbrock;Fritz Vorholz
+2242,Chikako Yamamoto;Dirk Asendorpf
+2243,Hans Schuh;Gero von Randow
+2244,Urs Willmann;Jürgen Bröker
+2245,Adolf Muschg
+2246,Stefanie Woit
+2247,Gabriele Meister
+2248,Peter Dausend;Tina Hildebrandt;Elisabeth Niejahr
+2249,Michael Lentz;Herbert Hindringer
+2250,Uwe Jean Heuser;Wolfgang Uchatius
+2251,Chikako Yamamoto
+2252,Ariane Breyer
+2253,Nora Bossong
+2254,Anne-Marie Slaughter
+2255,Richard Goldstone
+2256,Hiltrud Bontrup
+2257,Tahr Ben Jelloun
+2258,Hans Ulrich Gumbrecht
+2259,Uljana Wolf
+2260,Ralf Fücks
+2261,Götz Hamann;Wolfgang Gehrmann
+2262,Gunhild Lütge;Kerstin Bund
+2263,Susanne Donner
+2264,Arnfrid Schenk;Martin Spiewak
+2265,Inge Kutter;Gabriele Meister;Parvin Sadigh;Alexandra Werdes
+2266,Daniela Danz
+2267,Mariam  Lau
+2268,Roberto Saviano;Birgit Schönau
+2269,Maximilian Steinbeis;Christian Boulanger
+2270,Reischauer
+2271,Claudia Füßler
+2272,Dietrich von Richthofen
+2273,Kilian Trotier
+2274,Catriona Mclaughlin
+2275,Andreas Horn;Christoph Wohlgemuth;Albrecht Nollau
+2276,Thomas Kerstan;Hanns-Bruno Kammertöns
+2277,Michael Fischer
+2278,Tim Guldimann
+2279,Jan Ross;Ulrich Ladurner
+2280,Ulf Stolterfoht
+2281,Stefan Keller
+2282,Kerstin Bund;Götz Hamann;Wolfgang Uchatius
+2283,Jochen Bittner;Marcus Rohwetter;Claas Tatje
+2284,Andreas Heinecke
+2285,Stephan von Cramon-Taubadel
+2286,Monica Ali
+2287,Johannes von Müller
+2288,Catharina Koller
+2289,Christian Denso;Jochen Bittner
+2290,Uljana Wolf;Herbert Hindringer
+2291,Susanne Klingner
+2292,Uwe Wesel
+2293,Claudia Füssler
+2294,Marcus  Rohwetter
+2295,Ilka Piepgras
+2296,Kenichi Mishima
+2297,Sarah Pust
+2298,Leonie Achtnich
+2299,Çiğdem Akyol
+2300,Razan Zeitouneh
+2301,Hendrik Rost;Daniela Danz
+2302,Ralf Zerback
+2303,Jan Pallokat
+2304,Thomas Vasek
+2305,Anna Marohn;Christof Siemes
+2306,Susan Neiman
+2307,Maren Wernecke
+2308,Marie-Charlotte Maas
+2309,Gero von Randow;Mark Schieritz
+2310,Jan Wagner
+2311,Rami G. Khouri
+2312,Heike Faller;Claas Tatje
+2313,Dorit Kowitz
+2314,Rüdiger Jungbluth;Uwe Jean Heuser
+2315,Christiane Grefe;Ulrich Schnabel
+2316,Philipp Riedel
+2317,Marc Brost;Jörg Lau
+2318,Alice Bota;Susanne Fischer;Michael Thumann
+2319,Heinz Bude
+2320,Luisa Seeling
+2321,Peter Dausend;Tina Hildebrandt;Petra Pinzler;Fritz Vorholz
+2322,Götz Hamann;Thomas Fischermann
+2323,Magnus Heier
+2324,Christian von Hirschhausen
+2325,Karin Finkenzeller;Mark Schieritz
+2326,Merten Worthmann
+2327,Monika Rinck
+2328,Friedrich Merz
+2329,Mariam Lau;Fritz Vorholz
+2330,Josef Jofffe
+2331,Margot Käßmann
+2332,Ian Kershaw
+2333,Catriona McLaughlin
+2334,Al Jean
+2335,Lukas Grasberger
+2336,Astrid Zacharias;Elina Rehbein;Julia Rochser;Sonja Melzer
+2337,Richard David Precht;Stéphane Hessel
+2338,Lenz Jacobsen
+2339,Giovanni di Lorenzo;Matthias Naß
+2340,Marion Poschmann
+2341,Jürgen Todenhöfer
+2342,Thabo Mbeki
+2343,Karsten Binder
+2344,Christiane Grefe;Claas Tatje
+2345,Ruslan Grinberg
+2346,Moritz Gottsauner-Wolf
+2347,Susanne Fischer;Michael Thumann
+2348,Matthias Geis;Matthias Krupa
+2349,Tasos Telloglou
+2350,Georg Bossong
+2351,Thomas Fischermann;Gero von Randow
+2352,Dirk Asendorpf;Andreas Sentker;Thomas Fischermann;Uwe Jean Heuser;Stefan Schmitt;Josephina Maier
+2353,Heike Buchter;Dietmar H. Lamparter
+2354,Massimo Bognanni;Johannes Pennekamp
+2355,Ina Kirsch
+2356,Christoph Dallach
+2357,Thomas Glavinic
+2358,Bernhard-Henri Lévy
+2359,Christoph Zotter
+2360,Franz Jaeger
+2361,Özlem  Topcu
+2362,Herbert Hindringer
+2363,Tina Hildebrandt;Tanja Stelzer
+2364,Ernst Ulrich von Weizsäcker
+2365,Ernst Molden
+2366,Fredy Gareis;Christian Salewski
+2367,Markus Roth
+2368,Maja Göpel
+2369,Thomas Klupp
+2370,Kristina Maidt-Zinke
+2371,Tobias Lehmkuhl
+2372,Ann Cotten
+2373,Mark Schieritz;Wolfgang Uchatius
+2374,Jutta Hoffritz;Kolja Rudzio
+2375,Markus Kerber
+2376,Hanns-Josef Ortheil
+2377,Eduard Beaucamp
+2378,Michael Lentz
+2379,Paul Lendvai
+2380,Kerstin Kohlenberg;Martin Klingst
+2381,Nathalie Weidenfeld
+2382,Clemens Setz
+2383,Walter van Rossum
+2384,Thomas Sandkühler
+2385,Tobias Gohlis
+2386,Cigdem Toprak
+2387,Götz Hamann;Heinrich Wefing
+2388,Christiane Florin
+2389,Marc Brost;Heike Buchter;Mark Schieritz
+2390,Hans-Werner Sinn
+2391,Peter Gaehtgens
+2392,Mathias Brandt
+2393,Jörg Baberowski
+2394,Barbara Vinken
+2395,Petra Hemmelmann
+2396,Niklas Schenck
+2397,Andrea Böhm;Uwe Jean Heuser
+2398,Christiane Grefe;Jörg Lau
+2399,Andrea Nahles
+2400,Heinrich August Winkler
+2401,Aram Mattioli
+2402,Manuel Berkel
+2403,Götz Hamann;John Jungclaussen
+2404,Kerstin Bund;Fritz Vorholz
+2405,Catarina Koller
+2406,Christian Illies
+2407,Marc Brost;Stephan Lebert
+2408,Vera Gaserow
+2409,Tilman Steffen
+2410,Piotr Buras
+2411,Peter Kümmel;Sabine Rückert
+2412,Ottmar Edenhofer;Brigitte Knopf
+2413,Tin Fischer
+2414,Bernd Ulrich;Marc Brost
+2415,Bernard-Henri Lévy
+2416,Jillian C. York
+2417,Martin Ahrends
+2418,Heike Buchter;Angela Köckritz;Mark Schieritz
+2419,Tom Hillenbrand
+2420,Hartmut Hirsch-Kreinsen
+2421,David Binnig
+2422,Andrea Heinz
+2423,Sarah Schelp
+2424,Henrik Eberle
+2425,Volker Steinkamp
+2426,Marc Brost;Thomas Fischermann;Petra Pinzler;Mark Schieritz
+2427,Philipp Hedemann
+2428,Claudia Reischauer;Christian Tenbrock
+2429,Matthias Buck
+2430,Andreas Spaeth
+2431,Harro Albrecht;Sven Stockrahm
+2432,Micha Brumlik
+2433,Seamus Heaney
+2434,Susann Sitzler
+2435,Bernd Kramer
+2436,Rose Götte
+2437,Yakamoz Karakurt
+2438,Till Manning
+2439,Julian Trauthig
+2440,Małgorzata Zdziechowska
+2441,Wolfgang Tillmans
+2442,Christine Lemke-Matwey;Claus Spahn
+2443,Kerstin Eckstein;Michael Schönhuth
+2444,Ludwig Siep
+2445,Eva Illouz
+2446,Ijoma Mangold;Elisabeth von Thadden;Ulrich Greiner;Susanne Mayer;Stefan Schmitt;Stefanie Flamm;Evelyn Finger
+2447,Stephan Bartels
+2448,Leonie Achtnich;Parvin Sadigh;Gabriele Meister;Alexandra Werdes;Jan-Martin Wiarda
+2449,Jörg Lau;Bernd Ulrich
+2450,Özlem Topcu;Bernd Ulrich
+2451,Reinhard Osteroth
+2452,Uwe Jean Heuser;Kolja Rudzio;Mark Schieritz
+2453,Jakob von Weizsäcker;Michael Hüther
+2454,Hristio Boytchev
+2455,Jutta Person
+2456,Dieter Thomä
+2457,Evelyn Runge
+2458,Antonio Munoz Molina
+2459,Kristin Haug
+2460,Marcel Burkhardt
+2461,Christian Denso;Hauke Friederichs
+2462,Maria Linsmann
+2463,Susanne Wiborg
+2464,Wolfgang Uchatius;Massimo Bognanni;Heike Faller;Anna Kemper;Julian Trauthig
+2465,Mark Schieritz;Arne Storn;Georg Blume;John F. Jungclaussen
+2466,Adam Soboczynski;Jens Jessen
+2467,Giovanni di Lorenzo;Patrik Schwarz
+2468,Thomas Kerstan;Arnfrid Schenk
+2469,Christoph Gurk
+2470,Inge Ahrens
+2471,Alice Bota;Georg Blume;Gisela Dachs;Christian Denso;Tobias Dürr;Martin Klingst;Johannes Voswinkel
+2472,Richard Schröder
+2473,Jutta Hoffritz;Gunhild Lütge
+2474,Götz Hamann;Hanns-Bruno Kammertöns
+2475,Marcus Pfeil;Claas Tatje
+2476,Kai Biermann;Stefan Schmitt
+2477,Oliver Fritsch
+2478,Felix Kozubek
+2479,Süleyman Bag;Mahmut Cebi;Michael Thumann;Özlem Topcu
+2480,Ghassan Zaqtan
+2481,Åsne Seierstad
+2482,Vanessa de Senarclens
+2483,Petra Pinzler;Kolja Rudzio
+2484,Kerstin Bund;Uwe Jean Heuser;Dietmar H. Lamparter;Petra Pinzler
+2485,Felix Lill
+2486,Tina Hildebrandt;Petra Pinzler
+2487,Uwe Jean Heuser;Anna Marohn
+2488,Alina Schadwinkel;Stefan Schmitt
+2489,Paul Kirchhof
+2490,Moritz Müller-Wirth;Ijoma Mangold
+2491,Chris Köver
+2492,Lutz Hachmeister
+2493,Marian Blasberg
+2494,Tobias Engelsing
+2495,Rüdiger Jungbluth;Giovanni di Lorenzo
+2496,Wilhelm Heitmeyer
+2497,Friedrich von Borries
+2498,Marc Brost;Matthias Naß
+2499,Khuê Pham;Mariam Lau
+2500,Diccon Bewes
+2501,Güzin Kar
+2502,Adina Rieckmann
