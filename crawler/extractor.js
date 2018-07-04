@@ -3,7 +3,7 @@ const save = require('./helper').save;
 let STARTYEAR = 1997;
 let ENDYEAR = 2018;
 
-function extractAndConvert() {
+function extract() {
   var authors = [];
   var ressorts = [];
   var tags = [];
@@ -29,34 +29,39 @@ function extractAndConvert() {
     }
   }
 
-  console.log(authors.length + " Authors");
-  console.log(ressorts.length + " Ressorts");
-  console.log(tags.length + " Tags");
-  console.log(access.length + " Access");
+  for (let acc of access) {
+    if (acc.name === null || acc.name === undefined || acc.name === '') acc.name = 'Unbekannt';
+  }
+
+  console.log(authors.length + ' Authors');
+  console.log(ressorts.length + ' Ressorts');
+  console.log(tags.length + ' Tags');
+  console.log(access.length + ' Access');
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    process.stdout.write('Extracting data from year ' + year + ' from ' + ENDYEAR + ' years... \r');
+    process.stdout.write('Extracting data from ' + year + ". " + (ENDYEAR - year) + ' years left... \r');
     var articles = require('../posts/' + year + '.json');
+
     for (let art of articles) {
       var article = {};
+      if (art.length === 0) continue;
+
       article.id = extractedArticles.length + 1;
-      article.authors = authors.findIndex(author => author.name === art.author) + 1;
+      article.author = authors.findIndex(author => author.name === art.author) + 1;
       article.ressort = ressorts.findIndex(ressort => ressort.name === art.ressort) + 1;
       article.access = access.findIndex(access => access.name === art.access) + 1;
       article.title = art.title;
-      article.subtitle = art.subtitle;
 
       article.tags = [];
-
       for (let i = 0; i < art.tags.length; i++) {
         article.tags[i] = tags.findIndex(tag => tag.name === art.tags[i]) + 1;
       }
 
-      article.urgent = art.urgent === "yes" ? true : false;
+      article.urgent = art.urgent === 'yes' ? true : false;
 
       article.release_date = art.date_first_released !== null
         && art.date_first_released !== undefined
-        ? art.date_first_released : new Date(year);
+        ? new Date(art.date_first_released) : new Date(year);
 
       article.has_comments = art.show_commentthread !== null
         && art.show_commentthread !== undefined
@@ -84,84 +89,28 @@ function extractAndConvert() {
       extractedArticles.push(article);
     }
   }
+  console.log();
 
   save(access, './extracted/', 'access');
   save(authors, './extracted/', 'authors');
   save(ressorts, './extracted/', 'ressorts');
   save(tags, './extracted/', 'tags');
 
-  console.log(extractedArticles.length + " Articles");
+  console.log(extractedArticles.length + ' Articles');
   save(extractedArticles, './extracted/', 'articles');
-}
-
-function extractAuthors() {
-  console.log("Extracting Authors...");
-  var authors = [];
-  for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    var articles = require('../posts/' + year + '.json');
-    for (let article of articles) {
-      addToArray(authors, article.author);
-    }
-  }
-  console.log(authors.length + " Authors");
-  save(authors, './extracted/', 'authors');
-  return authors;
-}
-
-function extractRessorts() {
-  console.log("Extracting Ressorts...");
-  var ressorts = [];
-  for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    var articles = require('../posts/' + year + '.json');
-    for (let article of articles) {
-      addToArray(ressorts, article.ressort);
-    }
-  }
-  console.log(ressorts.length + " Ressorts");
-  save(ressorts, './extracted/', 'ressorts');
-  return ressorts;
-}
-
-function extractTags() {
-  console.log("Extracting Tags...");
-  var tags = [];
-  for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    var articles = require('../posts/' + year + '.json');
-    for (let article of articles) {
-      for (let tag of article.tags) {
-        addToArray(tags, tag);
-      }
-    }
-  }
-  console.log(tags.length + " Tags");
-  save(tags, './extracted/', 'tags');
-  return tags;
-}
-
-function extractAccess(articles) {
-  console.log("Extracting Access...");
-  var access = [];
-  for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    var articles = require('../posts/' + year + '.json');
-    for (let article of articles) {
-      addToArray(access, article.access);
-    }
-  }
-  console.log(access.length + " Access");
-  save(access, './extracted/', 'access');
-  return access;
 }
 
 function addToArray(array, attribute) {
   var index = array.findIndex(a => a.name === attribute)
   if (index === -1)
-    array.push({ id: array.length + 1, name: attribute });
+    array.push(
+      {
+        id: array.length + 1,
+        name: attribute
+      }
+    );
   // Only for tests
   // else array[index].hits++;
 }
 
-module.exports = {
-  extractAuthors, extractRessorts,
-  extractTags, extractAccess,
-  extractAndConvert
-}
+module.exports = { extract }

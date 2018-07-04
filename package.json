@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "archive": "node index.js --mode=archive",
+    "extract": "node index.js --mode=extract",
+    "export": "node index.js --mode=export"
   },
   "repository": {
     "type": "git",

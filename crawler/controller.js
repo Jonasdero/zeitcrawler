@@ -7,18 +7,13 @@ getUrls = (startyear, endyear) => archiveFunctions.getWeekUrls(startyear, endyea
 getPosts = (index) => archiveFunctions.getPosts(index);
 
 // extractorFunctions
-extractAccess = () => extractorFunctions.extractAccess();
-extractAuthors = () => extractorFunctions.extractAuthors();
-extractRessorts = () => extractorFunctions.extractRessorts();
-extractTags = () => extractorFunctions.extractTags();
-extractAndConvert = () => extractorFunctions.extractAndConvert();
+extract = () => extractorFunctions.extract();
 
 // exporterFunctions
 exportToCSV = () => exporterFunctions.exportToCSV();
 
 module.exports = {
   getUrls, getPosts,
-  extractAccess, extractAuthors, extractRessorts, extractTags,
-  extractAndConvert,
+  extract,
   exportToCSV
 }

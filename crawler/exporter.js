@@ -9,7 +9,7 @@ function exportToCSV() {
   for (let json of jsons) {
 
     fs.writeFileSync(resolve('./csv/' + json + '.csv'), null);
-    var writer = new csvWriter();
+    var writer = new csvWriter({ separator: ';' });
     var data = require('../extracted/' + json + '.json');
     writer.pipe(fs.createWriteStream('./csv/' + json + '.csv'))
     for (let d of data) {
