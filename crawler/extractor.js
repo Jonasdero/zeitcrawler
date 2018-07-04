@@ -15,9 +15,16 @@ function extractAndConvert() {
     for (let article of articles) {
       addToArray(authors, article.author);
       addToArray(ressorts, article.ressort);
-      for (let tag of article.tags) {
+
+      for (let tag of article.tags)
         addToArray(tags, tag);
+
+      for (let author of article.authors) {
+        var authorSplitted = author.split(/[(;)]/);
+        for (let auth of authorSplitted)
+          addToArray(authors, auth);
       }
+
       addToArray(access, article.access);
     }
   }
@@ -28,6 +35,7 @@ function extractAndConvert() {
   console.log(access.length + " Access");
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
+    console.log("Extracting data from year " + year + " from " + ENDYEAR);
     var articles = require('../posts/' + year + '.json');
     for (let art of articles) {
       var article = {};
@@ -35,11 +43,16 @@ function extractAndConvert() {
       article.authors = authors.findIndex(author => author.name === art.author) + 1;
       article.ressort = ressorts.findIndex(ressort => ressort.name === art.ressort) + 1;
       article.access = access.findIndex(access => access.name === art.access) + 1;
+      article.title = art.title;
+      article.subtitle = art.subtitle;
+
       article.tags = [];
 
       for (let i = 0; i < art.tags.length; i++) {
         article.tags[i] = tags.findIndex(tag => tag.name === art.tags[i]) + 1;
       }
+
+      article.urgent = art.urgent === "yes" ? true : false;
 
       article.release_date = art.date_first_released !== null
         && art.date_first_released !== undefined
@@ -66,12 +79,8 @@ function extractAndConvert() {
         && art.date_last_checkout === art.date_first_released
         ? false : true;
 
-      article.length = art.text_length !== null
-        && +art.text_length !== undefined
-        ? +art.text_length : 0;
+      article.length = art.length;
 
-      if (!article.length)
-        article.length = 0;
       extractedArticles.push(article);
     }
   }

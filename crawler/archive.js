@@ -36,7 +36,7 @@ function getPosts(index) {
 }
 
 function getPostUrls(instance, index) {
-  console.log('Week ' + index + ' from ' + weekUrls.length);
+  process.stdout.write('Week ' + index + ' from ' + weekUrls.length + '... \r');
   instance
     .goto(weekUrls[index]).wait().evaluate(() => {
       var urls = [];
@@ -69,7 +69,8 @@ function getPostUrls(instance, index) {
 }
 
 function getPostData(instance, index) {
-  console.log('Post ' + index + ' from ' + postUrls.length);
+  // console.log('Post ' + index + ' from ' + postUrls.length);
+  process.stdout.write('Post ' + index + ' from ' + postUrls.length + '... \r');
   instance
     .goto(postUrls[index]).wait().evaluate(() => {
       var article = {};
@@ -136,10 +137,9 @@ function getPostData(instance, index) {
       }
       getPostData(instance, index);
     }).catch((error) => {
-      index++;
       getPostData(instance, index);
       console.log(error);
-      endNightmare(instance);
+      // endNightmare(instance);
     })
 }
 
