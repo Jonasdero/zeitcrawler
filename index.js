@@ -14,6 +14,6 @@ function exportToCSV() {
   controller.exportToCSV();
 }
 
-getArchiveData(1997, 1997);
+// getArchiveData(1997, 1997);
 // extract();
-// exportToCSV();
+exportToCSV();

@@ -53,7 +53,7 @@ function getPostUrls(instance, index) {
         var name = STARTYEAR === ENDYEAR
           ? STARTYEAR
           : STARTYEAR + '-' + ENDYEAR;
-        console.log('Saving ' + postUrls.length + ' post urls to ' + name);
+        console.log('Saving ' + postUrls.length + ' post urls to ' + path + name);
         save(postUrls, path, name);
         endNightmare(instance);
         getPostData(Nightmare(nightmareConfig), 0);
@@ -69,7 +69,6 @@ function getPostUrls(instance, index) {
 }
 
 function getPostData(instance, index) {
-  // console.log('Post ' + index + ' from ' + postUrls.length);
   process.stdout.write('Post ' + index + ' from ' + postUrls.length + '... \r');
   instance
     .goto(postUrls[index]).wait().evaluate(() => {
@@ -130,7 +129,7 @@ function getPostData(instance, index) {
       if (index === postUrls.length) {
         var path = './posts/';
         var name = STARTYEAR === ENDYEAR ? STARTYEAR : STARTYEAR + '-' + ENDYEAR;
-        console.log('Saving ' + articles.length + ' articles to ' + name);
+        console.log('Saving ' + articles.length + ' articles to ' + path + name);
         save(articles, path, name);
         endNightmare(instance);
         return;

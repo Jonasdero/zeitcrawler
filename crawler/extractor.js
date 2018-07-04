@@ -1,7 +1,7 @@
 const save = require('./helper').save;
 
-let STARTYEAR = 2007;
-let ENDYEAR = 2017;
+let STARTYEAR = 1997;
+let ENDYEAR = 2018;
 
 function extractAndConvert() {
   var authors = [];
@@ -35,7 +35,7 @@ function extractAndConvert() {
   console.log(access.length + " Access");
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
-    console.log("Extracting data from year " + year + " from " + ENDYEAR);
+    process.stdout.write('Extracting data from year ' + year + ' from ' + ENDYEAR + ' years... \r');
     var articles = require('../posts/' + year + '.json');
     for (let art of articles) {
       var article = {};

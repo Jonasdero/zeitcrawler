@@ -1,57 +1,76 @@
 id,name
 1,Politik
 2,Dossier
-3,wissen
-4,Wirtschaft
+3,Wirtschaft
+4,Feuilleton
 5,Wissen
-6,Feuilleton
-7,Chancen
-8,Kultur
-9,Deutschland
-10,Media
-11,Lebensart
-12,Hochschule
-13,Campus
-14,Gesundheit
+6,Kultur
+7,Gesellschaft
+8,Chancen
+9,wissen
+10,Modernes Leben
+11,Hochschule
+12,Lebensart
+13,Reisen
+14,Zeitläufte
 15,Literatur
-16,Leben
-17,Gesellschaft
-18,Digital
-19,Karriere
-20,Computer
-21,Studium
-22,International
-23,Bildung
-24,Musik
-25,Sport
-26,Mobilitaet
-27,Reisen
-28,Administratives
-29,Finanzen
-30,ZUENDER
-31,Meinung
-32,Auto
-33,Leserbriefe
-34,Literaturbeilage
-35,"Wissen,Bildung"
-36,Geschichte
-37,Politisches Buch
-38,News
-39,Glauben und Zweifeln
-40,Zeitlaeufte
-41,zeit-magazin
-42,Angebote
-43,Entdecken
-44,KinderZEIT
-45,Fussball
-46,Aktuelles
-47,Spiele
-48,zeitmagazin
-49,Hamburg
-50,Community
-51,n/a
-52,Recht und Unrecht
-53,DIE ZEIT
-54,Arbeit
-55,Christ &amp; Welt
-56,ZEITmagazin
+16,Gesundheit
+17,Musik
+18,Chancenbeilage
+19,Computer
+20,Media
+21,Campus
+22,"Wissen,Bildung"
+23,Finanzen
+24,Reden
+25,Wohlfuehlen
+26,Feuilletonbeilage
+27,Video
+28,e-balance
+29,Leben
+30,Studium
+31,Literaturbeilage
+32,Zeitlaeufte
+33,Unbekannt
+34,Deutschland
+35,Sport
+36,Fussball
+37,Karriere
+38,Auto
+39,Altersvorsorge
+40,
+41,International
+42,Subkultur
+43,Weblogs
+44,Gefühl
+45,ZUENDER
+46,Fußball
+47,Digital
+48,Bildung
+49,Mobilitaet
+50,Administratives
+51,Meinung
+52,Leserbriefe
+53,Geschichte
+54,Politisches Buch
+55,Politik SCHWEIZ
+56,News
+57,Politik ÖSTERREICH
+58,Politik SACHSEN
+59,Glauben und Zweifeln
+60,zeit-magazin
+61,Angebote
+62,"Politik
+      ÖSTERREICH"
+63,Entdecken
+64,KinderZEIT
+65,Politik OSTEN
+66,Aktuelles
+67,Spiele
+68,zeitmagazin
+69,Hamburg
+70,Community
+71,Recht und Unrecht
+72,Arbeit
+73,Christ &amp; Welt
+74,ZEITmagazin

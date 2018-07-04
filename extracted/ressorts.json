@@ -9,11 +9,11 @@
     },
     {
         "id": 3,
-        "name": "wissen"
+        "name": "Wirtschaft"
     },
     {
         "id": 4,
-        "name": "Wirtschaft"
+        "name": "Feuilleton"
     },
     {
         "id": 5,
@@ -21,39 +21,39 @@
     },
     {
         "id": 6,
-        "name": "Feuilleton"
-    },
-    {
-        "id": 7,
-        "name": "Chancen"
-    },
-    {
-        "id": 8,
         "name": "Kultur"
     },
     {
+        "id": 7,
+        "name": "Gesellschaft"
+    },
+    {
+        "id": 8,
+        "name": "Chancen"
+    },
+    {
         "id": 9,
-        "name": "Deutschland"
+        "name": "wissen"
     },
     {
         "id": 10,
-        "name": "Media"
+        "name": "Modernes Leben"
     },
     {
         "id": 11,
-        "name": "Lebensart"
-    },
-    {
-        "id": 12,
         "name": "Hochschule"
     },
     {
+        "id": 12,
+        "name": "Lebensart"
+    },
+    {
         "id": 13,
-        "name": "Campus"
+        "name": "Reisen"
     },
     {
         "id": 14,
-        "name": "Gesundheit"
+        "name": "Zeitläufte"
     },
     {
         "id": 15,
@@ -61,166 +61,237 @@
     },
     {
         "id": 16,
-        "name": "Leben"
+        "name": "Gesundheit"
     },
     {
         "id": 17,
-        "name": "Gesellschaft"
-    },
-    {
-        "id": 18,
-        "name": "Digital"
-    },
-    {
-        "id": 19,
-        "name": "Karriere"
-    },
-    {
-        "id": 20,
-        "name": "Computer"
-    },
-    {
-        "id": 21,
-        "name": "Studium"
-    },
-    {
-        "id": 22,
-        "name": "International"
-    },
-    {
-        "id": 23,
-        "name": "Bildung"
-    },
-    {
-        "id": 24,
         "name": "Musik"
     },
     {
-        "id": 25,
-        "name": "Sport"
+        "id": 18,
+        "name": "Chancenbeilage"
     },
     {
-        "id": 26,
-        "name": "Mobilitaet"
+        "id": 19,
+        "name": "Computer"
     },
     {
-        "id": 27,
-        "name": "Reisen"
+        "id": 20,
+        "name": "Media"
     },
     {
-        "id": 28,
-        "name": "Administratives"
+        "id": 21,
+        "name": "Campus"
     },
     {
-        "id": 29,
-        "name": "Finanzen"
-    },
-    {
-        "id": 30,
-        "name": "ZUENDER"
-    },
-    {
-        "id": 31,
-        "name": "Meinung"
-    },
-    {
-        "id": 32,
-        "name": "Auto"
-    },
-    {
-        "id": 33,
-        "name": "Leserbriefe"
-    },
-    {
-        "id": 34,
-        "name": "Literaturbeilage"
-    },
-    {
-        "id": 35,
+        "id": 22,
         "name": "Wissen,Bildung"
     },
     {
-        "id": 36,
-        "name": "Geschichte"
+        "id": 23,
+        "name": "Finanzen"
     },
     {
-        "id": 37,
-        "name": "Politisches Buch"
+        "id": 24,
+        "name": "Reden"
     },
     {
-        "id": 38,
-        "name": "News"
+        "id": 25,
+        "name": "Wohlfuehlen"
     },
     {
-        "id": 39,
-        "name": "Glauben und Zweifeln"
+        "id": 26,
+        "name": "Feuilletonbeilage"
     },
     {
-        "id": 40,
+        "id": 27,
+        "name": "Video"
+    },
+    {
+        "id": 28,
+        "name": "e-balance"
+    },
+    {
+        "id": 29,
+        "name": "Leben"
+    },
+    {
+        "id": 30,
+        "name": "Studium"
+    },
+    {
+        "id": 31,
+        "name": "Literaturbeilage"
+    },
+    {
+        "id": 32,
         "name": "Zeitlaeufte"
     },
     {
-        "id": 41,
-        "name": "zeit-magazin"
+        "id": 33,
+        "name": "Unbekannt"
     },
     {
-        "id": 42,
-        "name": "Angebote"
+        "id": 34,
+        "name": "Deutschland"
     },
     {
-        "id": 43,
-        "name": "Entdecken"
+        "id": 35,
+        "name": "Sport"
     },
     {
-        "id": 44,
-        "name": "KinderZEIT"
-    },
-    {
-        "id": 45,
+        "id": 36,
         "name": "Fussball"
     },
     {
+        "id": 37,
+        "name": "Karriere"
+    },
+    {
+        "id": 38,
+        "name": "Auto"
+    },
+    {
+        "id": 39,
+        "name": "Altersvorsorge"
+    },
+    {
+        "id": 40
+    },
+    {
+        "id": 41,
+        "name": "International"
+    },
+    {
+        "id": 42,
+        "name": "Subkultur"
+    },
+    {
+        "id": 43,
+        "name": "Weblogs"
+    },
+    {
+        "id": 44,
+        "name": "Gefühl"
+    },
+    {
+        "id": 45,
+        "name": "ZUENDER"
+    },
+    {
         "id": 46,
-        "name": "Aktuelles"
+        "name": "Fußball"
     },
     {
         "id": 47,
-        "name": "Spiele"
+        "name": "Digital"
     },
     {
         "id": 48,
-        "name": "zeitmagazin"
+        "name": "Bildung"
     },
     {
         "id": 49,
-        "name": "Hamburg"
+        "name": "Mobilitaet"
     },
     {
         "id": 50,
-        "name": "Community"
+        "name": "Administratives"
     },
     {
         "id": 51,
-        "name": "n/a"
+        "name": "Meinung"
     },
     {
         "id": 52,
-        "name": "Recht und Unrecht"
+        "name": "Leserbriefe"
     },
     {
         "id": 53,
-        "name": "DIE ZEIT"
+        "name": "Geschichte"
     },
     {
         "id": 54,
-        "name": "Arbeit"
+        "name": "Politisches Buch"
     },
     {
         "id": 55,
-        "name": "Christ &amp; Welt"
+        "name": "Politik SCHWEIZ"
     },
     {
         "id": 56,
+        "name": "News"
+    },
+    {
+        "id": 57,
+        "name": "Politik ÖSTERREICH"
+    },
+    {
+        "id": 58,
+        "name": "Politik SACHSEN"
+    },
+    {
+        "id": 59,
+        "name": "Glauben und Zweifeln"
+    },
+    {
+        "id": 60,
+        "name": "zeit-magazin"
+    },
+    {
+        "id": 61,
+        "name": "Angebote"
+    },
+    {
+        "id": 62,
+        "name": "Politik\n      ÖSTERREICH"
+    },
+    {
+        "id": 63,
+        "name": "Entdecken"
+    },
+    {
+        "id": 64,
+        "name": "KinderZEIT"
+    },
+    {
+        "id": 65,
+        "name": "Politik OSTEN"
+    },
+    {
+        "id": 66,
+        "name": "Aktuelles"
+    },
+    {
+        "id": 67,
+        "name": "Spiele"
+    },
+    {
+        "id": 68,
+        "name": "zeitmagazin"
+    },
+    {
+        "id": 69,
+        "name": "Hamburg"
+    },
+    {
+        "id": 70,
+        "name": "Community"
+    },
+    {
+        "id": 71,
+        "name": "Recht und Unrecht"
+    },
+    {
+        "id": 72,
+        "name": "Arbeit"
+    },
+    {
+        "id": 73,
+        "name": "Christ &amp; Welt"
+    },
+    {
+        "id": 74,
         "name": "ZEITmagazin"
     }
 ]
