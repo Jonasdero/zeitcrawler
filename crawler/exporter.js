@@ -7,7 +7,6 @@ function exportToCSV() {
   let jsons = ['tags', 'authors', 'ressorts', 'access', 'articles'];
 
   for (let json of jsons) {
-
     fs.writeFileSync(resolve('./csv/' + json + '.csv'), null);
     var writer = new csvWriter({ separator: ';' });
     var data = require('../extracted/' + json + '.json');
@@ -16,9 +15,8 @@ function exportToCSV() {
       writer.write(d);
     }
     writer.end();
+    console.log('Exported ' + json[0].toUpperCase() + json.substr(1) + ' to csv');
   }
 }
 
-module.exports = {
-  exportToCSV,
-}
+module.exports = { exportToCSV }
