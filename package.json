@@ -27,7 +27,6 @@
   "homepage": "https://github.com/Jonasdero/zeitcrawler#readme",
   "dependencies": {
     "csv-write-stream": "^2.0.0",
-    "json2csv": "^4.1.5",
     "nightmare": "^3.0.1"
   }
 }
