@@ -1,76 +1,76 @@
-id;name
-1;Politik
-2;Dossier
-3;Wirtschaft
-4;Feuilleton
-5;Wissen
-6;Kultur
-7;Gesellschaft
-8;Chancen
-9;wissen
-10;Modernes Leben
-11;Hochschule
-12;Lebensart
-13;Reisen
-14;Zeitläufte
-15;Literatur
-16;Gesundheit
-17;Musik
-18;Chancenbeilage
-19;Computer
-20;Media
-21;Campus
-22;Wissen,Bildung
-23;Finanzen
-24;Reden
-25;Wohlfuehlen
-26;Feuilletonbeilage
-27;Video
-28;e-balance
-29;Leben
-30;Studium
-31;Literaturbeilage
-32;Zeitlaeufte
-33;Unbekannt
-34;Deutschland
-35;Sport
-36;Fussball
-37;Karriere
-38;Auto
-39;Altersvorsorge
-40;
-41;International
-42;Subkultur
-43;Weblogs
-44;Gefühl
-45;ZUENDER
-46;Fußball
-47;Digital
-48;Bildung
-49;Mobilitaet
-50;Administratives
-51;Meinung
-52;Leserbriefe
-53;Geschichte
-54;Politisches Buch
-55;Politik SCHWEIZ
-56;News
-57;Politik ÖSTERREICH
-58;Politik SACHSEN
-59;Glauben und Zweifeln
-60;zeit-magazin
-61;Angebote
+id;name;Sprache
+1;Politik;DE
+2;Dossier;DE
+3;Wirtschaft;DE
+4;Feuilleton;DE
+5;Wissen;DE
+6;Kultur;DE
+7;Gesellschaft;DE
+8;Chancen;DE
+9;wissen;DE
+10;Modernes Leben;DE
+11;Hochschule;DE
+12;Lebensart;DE
+13;Reisen;DE
+14;Zeitläufte;DE
+15;Literatur;DE
+16;Gesundheit;DE
+17;Musik;DE
+18;Chancenbeilage;DE
+19;Computer;DE
+20;Media;DE
+21;Campus;DE
+22;Wissen,Bildung;DE
+23;Finanzen;DE
+24;Reden;DE
+25;Wohlfuehlen;DE
+26;Feuilletonbeilage;DE
+27;Video;DE
+28;e-balance;DE
+29;Leben;DE
+30;Studium;DE
+31;Literaturbeilage;DE
+32;Zeitlaeufte;DE
+33;Unbekannt;DE
+34;Deutschland;DE
+35;Sport;DE
+36;Fussball;DE
+37;Karriere;DE
+38;Auto;DE
+39;Altersvorsorge;DE
+40;;DE
+41;International;DE
+42;Subkultur;DE
+43;Weblogs;DE
+44;Gefühl;DE
+45;ZUENDER;DE
+46;Fußball;DE
+47;Digital;DE
+48;Bildung;DE
+49;Mobilitaet;DE
+50;Administratives;DE
+51;Meinung;DE
+52;Leserbriefe;DE
+53;Geschichte;DE
+54;Politisches Buch;DE
+55;Politik SCHWEIZ;DE
+56;News;DE
+57;Politik ÖSTERREICH;DE
+58;Politik SACHSEN;DE
+59;Glauben und Zweifeln;DE
+60;zeit-magazin;DE
+61;Angebote;DE
 62;"Politik
-      ÖSTERREICH"
-63;Entdecken
-64;KinderZEIT
-65;Politik OSTEN
-66;Aktuelles
-67;Spiele
-68;zeitmagazin
-69;Hamburg
-70;Community
-71;Recht und Unrecht
-72;Arbeit
-73;"Christ &amp; Welt"
-74;ZEITmagazin
+      ÖSTERREICH";DE
+63;Entdecken;DE
+64;KinderZEIT;DE
+65;Politik OSTEN;DE
+66;Aktuelles;DE
+67;Spiele;DE
+68;zeitmagazin;DE
+69;Hamburg;DE
+70;Community;DE
+71;Recht und Unrecht;DE
+72;Arbeit;DE
+73;"Christ &amp; Welt";DE
+74;ZEITmagazin;DE

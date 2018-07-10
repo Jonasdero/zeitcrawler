@@ -9,15 +9,17 @@ function extract() {
   var tags = [];
   var access = [];
   var extractedArticles = [];
+  var extractedArticleTexts = [];
+  var artTags = [];
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
     var articles = require('../posts/' + year + '.json');
     for (let article of articles) {
       addToArray(authors, article.author);
-      addToArray(ressorts, article.ressort);
+      addToArrayDE(ressorts, article.ressort);
 
       for (let tag of article.tags)
-        addToArray(tags, tag);
+        addToArrayDE(tags, tag);
 
       for (let author of article.authors) {
         var authorSplitted = author.split(/[(;)]/);
@@ -25,12 +27,16 @@ function extract() {
           addToArray(authors, auth);
       }
 
-      addToArray(access, article.access);
+      addToArrayDE(access, article.access);
     }
   }
 
   for (let acc of access) {
     if (acc.name === null || acc.name === undefined || acc.name === '') acc.name = 'Unbekannt';
+  }
+
+  for (let author of authors) {
+    if (author.name === null || author.name === undefined || author.name === '') author.name = 'Unbekannt';
   }
 
   console.log(authors.length + ' Authors');
@@ -44,17 +50,20 @@ function extract() {
 
     for (let art of articles) {
       var article = {};
+      var articleText = {};
       if (art.length === 0) continue;
 
       article.id = extractedArticles.length + 1;
+      articleText.id = extractedArticles.length + 1
       article.author = authors.findIndex(author => author.name === art.author) + 1;
       article.ressort = ressorts.findIndex(ressort => ressort.name === art.ressort) + 1;
       article.access = access.findIndex(access => access.name === art.access) + 1;
-      article.title = art.title;
 
-      article.tags = [];
+      articleText.Sprache = 'DE';
+      articleText.title = art.title;
+
       for (let i = 0; i < art.tags.length; i++) {
-        article.tags[i] = tags.findIndex(tag => tag.name === art.tags[i]) + 1;
+        artTags.push({ articleId: article.id, tagId: tags.findIndex(tag => tag.name === art.tags[i]) + 1 });
       }
 
       article.urgent = art.urgent === 'yes' ? true : false;
@@ -65,39 +74,46 @@ function extract() {
 
       article.has_comments = art.show_commentthread !== null
         && art.show_commentthread !== undefined
-        ? true : false;
+        ? 1 : 2;
 
       article.moderated_comments = art.comments_premoderate !== null
         && art.comments_premoderate !== undefined
-        ? true : false;
+        ? 1 : 2;
 
       article.has_recensions = art.has_recensions !== null
         && art.has_recensions !== undefined
-        ? true : false;
+        ? 1 : 2;
 
       article.breaking_news = art.breaking_news !== null
         && art.breaking_news !== undefined
-        ? true : false;
+        ? 1 : 2;
 
       article.corrected = art.date_last_checkout !== null
         && art.date_last_checkout !== undefined
         && art.date_last_checkout === art.date_first_released
-        ? false : true;
+        ? 1 : 2;
 
       article.length = art.length;
 
+      article.Sprache = 'DE';
       extractedArticles.push(article);
+      extractedArticleTexts.push(articleText);
     }
   }
   console.log();
 
+
+  console.log(artTags.length + " Article Tags");
+
   save(access, './extracted/', 'access');
+  save(artTags, './extracted/', 'artTags');
   save(authors, './extracted/', 'authors');
   save(ressorts, './extracted/', 'ressorts');
   save(tags, './extracted/', 'tags');
 
   console.log(extractedArticles.length + ' Articles');
   save(extractedArticles, './extracted/', 'articles');
+  save(extractedArticleTexts, './extracted/', 'articleTexts');
 }
 
 function addToArray(array, attribute) {
@@ -113,4 +129,17 @@ function addToArray(array, attribute) {
   // else array[index].hits++;
 }
 
+function addToArrayDE(array, attribute) {
+  var index = array.findIndex(a => a.name === attribute)
+  if (index === -1)
+    array.push(
+      {
+        id: array.length + 1,
+        name: attribute,
+        Sprache: 'DE' // FUCKSAP
+      }
+    );
+  // Only for tests
+  // else array[index].hits++;
+}
 module.exports = { extract }

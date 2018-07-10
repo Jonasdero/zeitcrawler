@@ -1,18 +1,22 @@
 [
     {
         "id": 1,
-        "name": "registration"
+        "name": "registration",
+        "Sprache": "DE"
     },
     {
         "id": 2,
-        "name": "Unbekannt"
+        "name": "Unbekannt",
+        "Sprache": "DE"
     },
     {
         "id": 3,
-        "name": "free"
+        "name": "free",
+        "Sprache": "DE"
     },
     {
         "id": 4,
-        "name": "abo"
+        "name": "abo",
+        "Sprache": "DE"
     }
 ]

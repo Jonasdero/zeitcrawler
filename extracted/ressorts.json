@@ -1,297 +1,371 @@
 [
     {
         "id": 1,
-        "name": "Politik"
+        "name": "Politik",
+        "Sprache": "DE"
     },
     {
         "id": 2,
-        "name": "Dossier"
+        "name": "Dossier",
+        "Sprache": "DE"
     },
     {
         "id": 3,
-        "name": "Wirtschaft"
+        "name": "Wirtschaft",
+        "Sprache": "DE"
     },
     {
         "id": 4,
-        "name": "Feuilleton"
+        "name": "Feuilleton",
+        "Sprache": "DE"
     },
     {
         "id": 5,
-        "name": "Wissen"
+        "name": "Wissen",
+        "Sprache": "DE"
     },
     {
         "id": 6,
-        "name": "Kultur"
+        "name": "Kultur",
+        "Sprache": "DE"
     },
     {
         "id": 7,
-        "name": "Gesellschaft"
+        "name": "Gesellschaft",
+        "Sprache": "DE"
     },
     {
         "id": 8,
-        "name": "Chancen"
+        "name": "Chancen",
+        "Sprache": "DE"
     },
     {
         "id": 9,
-        "name": "wissen"
+        "name": "wissen",
+        "Sprache": "DE"
     },
     {
         "id": 10,
-        "name": "Modernes Leben"
+        "name": "Modernes Leben",
+        "Sprache": "DE"
     },
     {
         "id": 11,
-        "name": "Hochschule"
+        "name": "Hochschule",
+        "Sprache": "DE"
     },
     {
         "id": 12,
-        "name": "Lebensart"
+        "name": "Lebensart",
+        "Sprache": "DE"
     },
     {
         "id": 13,
-        "name": "Reisen"
+        "name": "Reisen",
+        "Sprache": "DE"
     },
     {
         "id": 14,
-        "name": "Zeitläufte"
+        "name": "Zeitläufte",
+        "Sprache": "DE"
     },
     {
         "id": 15,
-        "name": "Literatur"
+        "name": "Literatur",
+        "Sprache": "DE"
     },
     {
         "id": 16,
-        "name": "Gesundheit"
+        "name": "Gesundheit",
+        "Sprache": "DE"
     },
     {
         "id": 17,
-        "name": "Musik"
+        "name": "Musik",
+        "Sprache": "DE"
     },
     {
         "id": 18,
-        "name": "Chancenbeilage"
+        "name": "Chancenbeilage",
+        "Sprache": "DE"
     },
     {
         "id": 19,
-        "name": "Computer"
+        "name": "Computer",
+        "Sprache": "DE"
     },
     {
         "id": 20,
-        "name": "Media"
+        "name": "Media",
+        "Sprache": "DE"
     },
     {
         "id": 21,
-        "name": "Campus"
+        "name": "Campus",
+        "Sprache": "DE"
     },
     {
         "id": 22,
-        "name": "Wissen,Bildung"
+        "name": "Wissen,Bildung",
+        "Sprache": "DE"
     },
     {
         "id": 23,
-        "name": "Finanzen"
+        "name": "Finanzen",
+        "Sprache": "DE"
     },
     {
         "id": 24,
-        "name": "Reden"
+        "name": "Reden",
+        "Sprache": "DE"
     },
     {
         "id": 25,
-        "name": "Wohlfuehlen"
+        "name": "Wohlfuehlen",
+        "Sprache": "DE"
     },
     {
         "id": 26,
-        "name": "Feuilletonbeilage"
+        "name": "Feuilletonbeilage",
+        "Sprache": "DE"
     },
     {
         "id": 27,
-        "name": "Video"
+        "name": "Video",
+        "Sprache": "DE"
     },
     {
         "id": 28,
-        "name": "e-balance"
+        "name": "e-balance",
+        "Sprache": "DE"
     },
     {
         "id": 29,
-        "name": "Leben"
+        "name": "Leben",
+        "Sprache": "DE"
     },
     {
         "id": 30,
-        "name": "Studium"
+        "name": "Studium",
+        "Sprache": "DE"
     },
     {
         "id": 31,
-        "name": "Literaturbeilage"
+        "name": "Literaturbeilage",
+        "Sprache": "DE"
     },
     {
         "id": 32,
-        "name": "Zeitlaeufte"
+        "name": "Zeitlaeufte",
+        "Sprache": "DE"
     },
     {
         "id": 33,
-        "name": "Unbekannt"
+        "name": "Unbekannt",
+        "Sprache": "DE"
     },
     {
         "id": 34,
-        "name": "Deutschland"
+        "name": "Deutschland",
+        "Sprache": "DE"
     },
     {
         "id": 35,
-        "name": "Sport"
+        "name": "Sport",
+        "Sprache": "DE"
     },
     {
         "id": 36,
-        "name": "Fussball"
+        "name": "Fussball",
+        "Sprache": "DE"
     },
     {
         "id": 37,
-        "name": "Karriere"
+        "name": "Karriere",
+        "Sprache": "DE"
     },
     {
         "id": 38,
-        "name": "Auto"
+        "name": "Auto",
+        "Sprache": "DE"
     },
     {
         "id": 39,
-        "name": "Altersvorsorge"
+        "name": "Altersvorsorge",
+        "Sprache": "DE"
     },
     {
-        "id": 40
+        "id": 40,
+        "Sprache": "DE"
     },
     {
         "id": 41,
-        "name": "International"
+        "name": "International",
+        "Sprache": "DE"
     },
     {
         "id": 42,
-        "name": "Subkultur"
+        "name": "Subkultur",
+        "Sprache": "DE"
     },
     {
         "id": 43,
-        "name": "Weblogs"
+        "name": "Weblogs",
+        "Sprache": "DE"
     },
     {
         "id": 44,
-        "name": "Gefühl"
+        "name": "Gefühl",
+        "Sprache": "DE"
     },
     {
         "id": 45,
-        "name": "ZUENDER"
+        "name": "ZUENDER",
+        "Sprache": "DE"
     },
     {
         "id": 46,
-        "name": "Fußball"
+        "name": "Fußball",
+        "Sprache": "DE"
     },
     {
         "id": 47,
-        "name": "Digital"
+        "name": "Digital",
+        "Sprache": "DE"
     },
     {
         "id": 48,
-        "name": "Bildung"
+        "name": "Bildung",
+        "Sprache": "DE"
     },
     {
         "id": 49,
-        "name": "Mobilitaet"
+        "name": "Mobilitaet",
+        "Sprache": "DE"
     },
     {
         "id": 50,
-        "name": "Administratives"
+        "name": "Administratives",
+        "Sprache": "DE"
     },
     {
         "id": 51,
-        "name": "Meinung"
+        "name": "Meinung",
+        "Sprache": "DE"
     },
     {
         "id": 52,
-        "name": "Leserbriefe"
+        "name": "Leserbriefe",
+        "Sprache": "DE"
     },
     {
         "id": 53,
-        "name": "Geschichte"
+        "name": "Geschichte",
+        "Sprache": "DE"
     },
     {
         "id": 54,
-        "name": "Politisches Buch"
+        "name": "Politisches Buch",
+        "Sprache": "DE"
     },
     {
         "id": 55,
-        "name": "Politik SCHWEIZ"
+        "name": "Politik SCHWEIZ",
+        "Sprache": "DE"
     },
     {
         "id": 56,
-        "name": "News"
+        "name": "News",
+        "Sprache": "DE"
     },
     {
         "id": 57,
-        "name": "Politik ÖSTERREICH"
+        "name": "Politik ÖSTERREICH",
+        "Sprache": "DE"
     },
     {
         "id": 58,
-        "name": "Politik SACHSEN"
+        "name": "Politik SACHSEN",
+        "Sprache": "DE"
     },
     {
         "id": 59,
-        "name": "Glauben und Zweifeln"
+        "name": "Glauben und Zweifeln",
+        "Sprache": "DE"
     },
     {
         "id": 60,
-        "name": "zeit-magazin"
+        "name": "zeit-magazin",
+        "Sprache": "DE"
     },
     {
         "id": 61,
-        "name": "Angebote"
+        "name": "Angebote",
+        "Sprache": "DE"
     },
     {
         "id": 62,
-        "name": "Politik\n      ÖSTERREICH"
+        "name": "Politik\n      ÖSTERREICH",
+        "Sprache": "DE"
     },
     {
         "id": 63,
-        "name": "Entdecken"
+        "name": "Entdecken",
+        "Sprache": "DE"
     },
     {
         "id": 64,
-        "name": "KinderZEIT"
+        "name": "KinderZEIT",
+        "Sprache": "DE"
     },
     {
         "id": 65,
-        "name": "Politik OSTEN"
+        "name": "Politik OSTEN",
+        "Sprache": "DE"
     },
     {
         "id": 66,
-        "name": "Aktuelles"
+        "name": "Aktuelles",
+        "Sprache": "DE"
     },
     {
         "id": 67,
-        "name": "Spiele"
+        "name": "Spiele",
+        "Sprache": "DE"
     },
     {
         "id": 68,
-        "name": "zeitmagazin"
+        "name": "zeitmagazin",
+        "Sprache": "DE"
     },
     {
         "id": 69,
-        "name": "Hamburg"
+        "name": "Hamburg",
+        "Sprache": "DE"
     },
     {
         "id": 70,
-        "name": "Community"
+        "name": "Community",
+        "Sprache": "DE"
     },
     {
         "id": 71,
-        "name": "Recht und Unrecht"
+        "name": "Recht und Unrecht",
+        "Sprache": "DE"
     },
     {
         "id": 72,
-        "name": "Arbeit"
+        "name": "Arbeit",
+        "Sprache": "DE"
     },
     {
         "id": 73,
-        "name": "Christ &amp; Welt"
+        "name": "Christ &amp; Welt",
+        "Sprache": "DE"
     },
     {
         "id": 74,
-        "name": "ZEITmagazin"
+        "name": "ZEITmagazin",
+        "Sprache": "DE"
     }
 ]

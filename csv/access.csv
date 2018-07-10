@@ -1,5 +1,5 @@
-id;name
-1;registration
-2;Unbekannt
-3;free
-4;abo
+id;name;Sprache
+1;registration;DE
+2;Unbekannt;DE
+3;free;DE
+4;abo;DE
