@@ -41,330 +41,320 @@
     },
     {
         "id": 9,
-        "name": "wissen",
-        "Sprache": "DE"
-    },
-    {
-        "id": 10,
         "name": "Modernes Leben",
         "Sprache": "DE"
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "Hochschule",
         "Sprache": "DE"
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "Lebensart",
         "Sprache": "DE"
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "Reisen",
         "Sprache": "DE"
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Zeitläufte",
         "Sprache": "DE"
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "Literatur",
         "Sprache": "DE"
     },
     {
-        "id": 16,
+        "id": 15,
         "name": "Gesundheit",
         "Sprache": "DE"
     },
     {
-        "id": 17,
+        "id": 16,
         "name": "Musik",
         "Sprache": "DE"
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Chancenbeilage",
         "Sprache": "DE"
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Computer",
         "Sprache": "DE"
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Media",
         "Sprache": "DE"
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Campus",
         "Sprache": "DE"
     },
     {
-        "id": 22,
-        "name": "Wissen,Bildung",
+        "id": 21,
+        "name": "Wissen Bildung",
         "Sprache": "DE"
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Finanzen",
         "Sprache": "DE"
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Reden",
         "Sprache": "DE"
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Wohlfuehlen",
         "Sprache": "DE"
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Feuilletonbeilage",
         "Sprache": "DE"
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Video",
         "Sprache": "DE"
     },
     {
-        "id": 28,
-        "name": "e-balance",
+        "id": 27,
+        "name": "E Balance",
         "Sprache": "DE"
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "Leben",
         "Sprache": "DE"
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "Studium",
         "Sprache": "DE"
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "Literaturbeilage",
         "Sprache": "DE"
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "Zeitlaeufte",
         "Sprache": "DE"
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "Unbekannt",
         "Sprache": "DE"
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "Deutschland",
         "Sprache": "DE"
     },
     {
-        "id": 35,
+        "id": 34,
         "name": "Sport",
         "Sprache": "DE"
     },
     {
-        "id": 36,
+        "id": 35,
         "name": "Fussball",
         "Sprache": "DE"
     },
     {
-        "id": 37,
+        "id": 36,
         "name": "Karriere",
         "Sprache": "DE"
     },
     {
-        "id": 38,
+        "id": 37,
         "name": "Auto",
         "Sprache": "DE"
     },
     {
-        "id": 39,
+        "id": 38,
         "name": "Altersvorsorge",
         "Sprache": "DE"
     },
     {
-        "id": 40,
+        "id": 39,
         "Sprache": "DE"
     },
     {
-        "id": 41,
+        "id": 40,
         "name": "International",
         "Sprache": "DE"
     },
     {
-        "id": 42,
+        "id": 41,
         "name": "Subkultur",
         "Sprache": "DE"
     },
     {
-        "id": 43,
+        "id": 42,
         "name": "Weblogs",
         "Sprache": "DE"
     },
     {
-        "id": 44,
+        "id": 43,
         "name": "Gefühl",
         "Sprache": "DE"
     },
     {
+        "id": 44,
+        "name": "Zuender",
+        "Sprache": "DE"
+    },
+    {
         "id": 45,
-        "name": "ZUENDER",
+        "name": "Fu Ball",
         "Sprache": "DE"
     },
     {
         "id": 46,
-        "name": "Fußball",
-        "Sprache": "DE"
-    },
-    {
-        "id": 47,
         "name": "Digital",
         "Sprache": "DE"
     },
     {
-        "id": 48,
+        "id": 47,
         "name": "Bildung",
         "Sprache": "DE"
     },
     {
-        "id": 49,
+        "id": 48,
         "name": "Mobilitaet",
         "Sprache": "DE"
     },
     {
-        "id": 50,
+        "id": 49,
         "name": "Administratives",
         "Sprache": "DE"
     },
     {
-        "id": 51,
+        "id": 50,
         "name": "Meinung",
         "Sprache": "DE"
     },
     {
-        "id": 52,
+        "id": 51,
         "name": "Leserbriefe",
         "Sprache": "DE"
     },
     {
-        "id": 53,
+        "id": 52,
         "name": "Geschichte",
         "Sprache": "DE"
     },
     {
-        "id": 54,
+        "id": 53,
         "name": "Politisches Buch",
         "Sprache": "DE"
     },
     {
-        "id": 55,
-        "name": "Politik SCHWEIZ",
+        "id": 54,
+        "name": "Politik Schweiz",
         "Sprache": "DE"
     },
     {
-        "id": 56,
+        "id": 55,
         "name": "News",
         "Sprache": "DE"
     },
     {
+        "id": 56,
+        "name": "Politik Österreich",
+        "Sprache": "DE"
+    },
+    {
         "id": 57,
-        "name": "Politik ÖSTERREICH",
+        "name": "Politik Sachsen",
         "Sprache": "DE"
     },
     {
         "id": 58,
-        "name": "Politik SACHSEN",
+        "name": "Glauben Und Zweifeln",
         "Sprache": "DE"
     },
     {
         "id": 59,
-        "name": "Glauben und Zweifeln",
+        "name": "Zeit Magazin",
         "Sprache": "DE"
     },
     {
         "id": 60,
-        "name": "zeit-magazin",
-        "Sprache": "DE"
-    },
-    {
-        "id": 61,
         "name": "Angebote",
         "Sprache": "DE"
     },
     {
-        "id": 62,
-        "name": "Politik\n      ÖSTERREICH",
-        "Sprache": "DE"
-    },
-    {
-        "id": 63,
+        "id": 61,
         "name": "Entdecken",
         "Sprache": "DE"
     },
     {
-        "id": 64,
+        "id": 62,
         "name": "KinderZEIT",
         "Sprache": "DE"
     },
     {
-        "id": 65,
-        "name": "Politik OSTEN",
+        "id": 63,
+        "name": "Politik Osten",
         "Sprache": "DE"
     },
     {
-        "id": 66,
+        "id": 64,
         "name": "Aktuelles",
         "Sprache": "DE"
     },
     {
-        "id": 67,
+        "id": 65,
         "name": "Spiele",
         "Sprache": "DE"
     },
     {
-        "id": 68,
-        "name": "zeitmagazin",
+        "id": 66,
+        "name": "Zeitmagazin",
         "Sprache": "DE"
     },
     {
-        "id": 69,
+        "id": 67,
         "name": "Hamburg",
         "Sprache": "DE"
     },
     {
-        "id": 70,
+        "id": 68,
         "name": "Community",
         "Sprache": "DE"
     },
     {
-        "id": 71,
-        "name": "Recht und Unrecht",
+        "id": 69,
+        "name": "Recht Und Unrecht",
         "Sprache": "DE"
     },
     {
-        "id": 72,
+        "id": 70,
         "name": "Arbeit",
         "Sprache": "DE"
     },
     {
-        "id": 73,
-        "name": "Christ &amp; Welt",
+        "id": 71,
+        "name": "Christ Amp Welt",
         "Sprache": "DE"
     },
     {
-        "id": 74,
+        "id": 72,
         "name": "ZEITmagazin",
         "Sprache": "DE"
     }

@@ -1,0 +1,35 @@
+{
+  // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+  // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+  // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Extraction",
+      "program": "${workspaceFolder}\\index.js",
+      "args": [
+        "--mode=extract"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Export",
+      "program": "${workspaceFolder}\\index.js",
+      "args": [
+        "--mode=export"
+      ]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Archive",
+      "program": "${workspaceFolder}\\index.js",
+      "args": [
+        "--mode=archive"
+      ]
+    }
+  ]
+}

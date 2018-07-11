@@ -5,6 +5,7 @@ let ENDYEAR = 2018;
 
 function extract() {
   var authors = [];
+
   var ressorts = [];
   var tags = [];
   var access = [];
@@ -12,22 +13,27 @@ function extract() {
   var extractedArticleTexts = [];
   var artTags = [];
 
+  var authorObject = {};
+  var ressortObject = {};
+  var tagsObject = {};
+  var accessObject = {};
+
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
     var articles = require('../posts/' + year + '.json');
     for (let article of articles) {
-      addToArray(authors, article.author);
-      addToArrayDE(ressorts, article.ressort);
+      addToArray(authorObject, authors, article.author, 'DE');
+      addToArray(ressortObject, ressorts, article.ressort, 'DE');
 
       for (let tag of article.tags)
-        addToArrayDE(tags, tag);
+        addToArray(tagsObject, tags, tag, 'DE');
 
       for (let author of article.authors) {
         var authorSplitted = author.split(/[(;)]/);
         for (let auth of authorSplitted)
-          addToArray(authors, auth);
+          addToArray(authorObject, authors, auth, null);
       }
 
-      addToArrayDE(access, article.access);
+      addToArray(accessObject, access, article.access, null);
     }
   }
 
@@ -44,6 +50,11 @@ function extract() {
   console.log(tags.length + ' Tags');
   console.log(access.length + ' Access');
 
+  save(access, './extracted/', 'access');
+  save(authors, './extracted/', 'authors');
+  save(ressorts, './extracted/', 'ressorts');
+  save(tags, './extracted/', 'tags');
+
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
     process.stdout.write('Extracting data from ' + year + ". " + (ENDYEAR - year) + ' years left... \r');
     var articles = require('../posts/' + year + '.json');
@@ -54,23 +65,26 @@ function extract() {
       if (art.length === 0) continue;
 
       article.id = extractedArticles.length + 1;
-      articleText.id = extractedArticles.length + 1
-      article.author = authors.findIndex(author => author.name === art.author) + 1;
-      article.ressort = ressorts.findIndex(ressort => ressort.name === art.ressort) + 1;
-      article.access = access.findIndex(access => access.name === art.access) + 1;
+      articleText.id = article.id;
+      article.author = authorObject[standarize(art.author)] + 1;
+      article.ressort = ressortObject[standarize(art.ressort)] + 1;
+      article.access = accessObject[standarize(art.access)] + 1;
 
       articleText.Sprache = 'DE';
-      articleText.title = art.title;
+      articleText.title = standarize(art.title);
 
       for (let i = 0; i < art.tags.length; i++) {
-        artTags.push({ articleId: article.id, tagId: tags.findIndex(tag => tag.name === art.tags[i]) + 1 });
+        artTags.push({
+          articleId: article.id,
+          tagId: tagsObject[standarize(art.tags[i])] + 1
+        });
       }
-
-      article.urgent = art.urgent === 'yes' ? true : false;
 
       article.release_date = art.date_first_released !== null
         && art.date_first_released !== undefined
         ? new Date(art.date_first_released) : new Date(year);
+
+      article.release_date = article.release_date.toISOString().split('T')[0].replace(/-/g, "");
 
       article.has_comments = art.show_commentthread !== null
         && art.show_commentthread !== undefined
@@ -95,51 +109,56 @@ function extract() {
 
       article.length = art.length;
 
-      article.Sprache = 'DE';
       extractedArticles.push(article);
       extractedArticleTexts.push(articleText);
     }
   }
   console.log();
-
-
   console.log(artTags.length + " Article Tags");
-
-  save(access, './extracted/', 'access');
   save(artTags, './extracted/', 'artTags');
-  save(authors, './extracted/', 'authors');
-  save(ressorts, './extracted/', 'ressorts');
-  save(tags, './extracted/', 'tags');
 
   console.log(extractedArticles.length + ' Articles');
   save(extractedArticles, './extracted/', 'articles');
   save(extractedArticleTexts, './extracted/', 'articleTexts');
 }
 
-function addToArray(array, attribute) {
-  var index = array.findIndex(a => a.name === attribute)
-  if (index === -1)
-    array.push(
-      {
-        id: array.length + 1,
-        name: attribute
-      }
-    );
-  // Only for tests
-  // else array[index].hits++;
+function addToArray(obj, array, attribute, lang) {
+  attribute = standarize(attribute);
+  var index = obj[attribute];
+  if (index === -1 || index === undefined) {
+    obj[attribute] = array.length;
+    if (lang) array.push({
+      id: array.length + 1,
+      name: attribute,
+      Sprache: lang // z.B. 'DE' FUCKSAP
+    });
+    else array.push({
+      id: array.length + 1,
+      name: attribute,
+    });
+  }
+  else if (index === undefined) {
+
+  }
 }
 
-function addToArrayDE(array, attribute) {
-  var index = array.findIndex(a => a.name === attribute)
-  if (index === -1)
-    array.push(
-      {
-        id: array.length + 1,
-        name: attribute,
-        Sprache: 'DE' // FUCKSAP
-      }
-    );
-  // Only for tests
-  // else array[index].hits++;
+function standarize(string) {
+  if (!string) return string;
+
+  string = string.replace(/"/g, "")
+    .replace(/([\r\n]+|[^A-Z0-9ÖÄÜa-z])+/ig, " ");
+
+  let correct = true;
+  for (let s of string.split(' '))
+    if (!/[A-Züäö]{1}[a-z0-9äüö]\w+/.test(s))
+      correct = false;
+
+  if (correct) return string;
+
+  let strings = string.toLowerCase().split(' ');
+  for (let i = 0; i < strings.length; i++)
+    strings[i] = strings[i].charAt(0).toUpperCase() + strings[i].slice(1);
+  string = strings.join(' ');
+  return string;
 }
 module.exports = { extract }
