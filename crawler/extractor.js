@@ -21,7 +21,7 @@ function extract() {
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
     var articles = require('../posts/' + year + '.json');
     for (let article of articles) {
-      addToArray(authorObject, authors, article.author, 'DE');
+      addToArray(authorObject, authors, article.author, null);
       addToArray(ressortObject, ressorts, article.ressort, 'DE');
 
       for (let tag of article.tags)
