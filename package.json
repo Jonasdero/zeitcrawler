@@ -1,6 +1,6 @@
 {
   "name": "zeitcrawler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Crawl all posts on a newssite called \"Zeit\"",
   "main": "index.js",
   "scripts": {
