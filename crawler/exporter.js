@@ -4,7 +4,7 @@ const resolve = require('path').resolve;
 
 function exportToCSV() {
 
-  let jsons = ['tags', 'authors', 'ressorts', 'access', 'articles', 'artTags', 'articleTexts'];
+  let jsons = ['authors', 'ressorts', 'access', 'articles','articleTexts'];
 
   for (let json of jsons) {
     fs.writeFileSync(resolve('./csv/' + json + '.csv'), null);

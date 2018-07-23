@@ -7,15 +7,12 @@ function extract() {
   var authors = [];
 
   var ressorts = [];
-  var tags = [];
   var access = [];
   var extractedArticles = [];
   var extractedArticleTexts = [];
-  var artTags = [];
 
   var authorObject = {};
   var ressortObject = {};
-  var tagsObject = {};
   var accessObject = {};
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
@@ -23,9 +20,6 @@ function extract() {
     for (let article of articles) {
       addToArray(authorObject, authors, article.author, null);
       addToArray(ressortObject, ressorts, article.ressort, 'DE');
-
-      for (let tag of article.tags)
-        addToArray(tagsObject, tags, tag, 'DE');
 
       for (let author of article.authors) {
         var authorSplitted = author.split(/[(;)]/);
@@ -47,13 +41,11 @@ function extract() {
 
   console.log(authors.length + ' Authors');
   console.log(ressorts.length + ' Ressorts');
-  console.log(tags.length + ' Tags');
   console.log(access.length + ' Access');
 
   save(access, './extracted/', 'access');
   save(authors, './extracted/', 'authors');
   save(ressorts, './extracted/', 'ressorts');
-  save(tags, './extracted/', 'tags');
 
   for (let year = STARTYEAR; year <= ENDYEAR; year++) {
     process.stdout.write('Extracting data from ' + year + ". " + (ENDYEAR - year) + ' years left... \r');
@@ -72,13 +64,6 @@ function extract() {
 
       articleText.Sprache = 'DE';
       articleText.title = standarize(art.title);
-
-      for (let i = 0; i < art.tags.length; i++) {
-        artTags.push({
-          articleId: article.id,
-          tagId: tagsObject[standarize(art.tags[i])] + 1
-        });
-      }
 
       article.release_date = art.date_first_released !== null
         && art.date_first_released !== undefined
@@ -114,8 +99,6 @@ function extract() {
     }
   }
   console.log();
-  console.log(artTags.length + " Article Tags");
-  save(artTags, './extracted/', 'artTags');
 
   console.log(extractedArticles.length + ' Articles');
   save(extractedArticles, './extracted/', 'articles');
