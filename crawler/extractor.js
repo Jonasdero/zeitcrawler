@@ -53,7 +53,7 @@ function extract() {
       if (art.length === 0) continue;
 
       bewegungsdata.article = extractedBewegungsdata.length + 1;
-      article.id = bewegungsdata.id;
+      article.id = bewegungsdata.article;
       bewegungsdata.author = authorObject[standarize(art.author)] + 1;
       bewegungsdata.ressort = ressortObject[standarize(art.ressort)] + 1;
 
