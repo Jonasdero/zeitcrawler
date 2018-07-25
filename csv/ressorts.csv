@@ -1,73 +1,73 @@
-id;name;Sprache
-1;Politik;DE
-2;Dossier;DE
-3;Wirtschaft;DE
-4;Feuilleton;DE
-5;Wissen;DE
-6;Kultur;DE
-7;Gesellschaft;DE
-8;Chancen;DE
-9;Modernes Leben;DE
-10;Hochschule;DE
-11;Lebensart;DE
-12;Reisen;DE
-13;Zeitläufte;DE
-14;Literatur;DE
-15;Gesundheit;DE
-16;Musik;DE
-17;Chancenbeilage;DE
-18;Computer;DE
-19;Media;DE
-20;Campus;DE
-21;Wissen Bildung;DE
-22;Finanzen;DE
-23;Reden;DE
-24;Wohlfuehlen;DE
-25;Feuilletonbeilage;DE
-26;Video;DE
-27;E Balance;DE
-28;Leben;DE
-29;Studium;DE
-30;Literaturbeilage;DE
-31;Zeitlaeufte;DE
-32;Unbekannt;DE
-33;Deutschland;DE
-34;Sport;DE
-35;Fussball;DE
-36;Karriere;DE
-37;Auto;DE
-38;Altersvorsorge;DE
-39;;DE
-40;International;DE
-41;Subkultur;DE
-42;Weblogs;DE
-43;Gefühl;DE
-44;Zuender;DE
-45;Fu Ball;DE
-46;Digital;DE
-47;Bildung;DE
-48;Mobilitaet;DE
-49;Administratives;DE
-50;Meinung;DE
-51;Leserbriefe;DE
-52;Geschichte;DE
-53;Politisches Buch;DE
-54;Politik Schweiz;DE
-55;News;DE
-56;Politik Österreich;DE
-57;Politik Sachsen;DE
-58;Glauben Und Zweifeln;DE
-59;Zeit Magazin;DE
-60;Angebote;DE
-61;Entdecken;DE
-62;KinderZEIT;DE
-63;Politik Osten;DE
-64;Aktuelles;DE
-65;Spiele;DE
-66;Zeitmagazin;DE
-67;Hamburg;DE
-68;Community;DE
-69;Recht Und Unrecht;DE
-70;Arbeit;DE
-71;Christ Amp Welt;DE
-72;ZEITmagazin;DE
+id;name
+1;Politik
+2;Dossier
+3;Wirtschaft
+4;Feuilleton
+5;Wissen
+6;Kultur
+7;Gesellschaft
+8;Chancen
+9;Modernes Leben
+10;Hochschule
+11;Lebensart
+12;Reisen
+13;Zeitläufte
+14;Literatur
+15;Gesundheit
+16;Musik
+17;Chancenbeilage
+18;Computer
+19;Media
+20;Campus
+21;Wissen Bildung
+22;Finanzen
+23;Reden
+24;Wohlfuehlen
+25;Feuilletonbeilage
+26;Video
+27;E Balance
+28;Leben
+29;Studium
+30;Literaturbeilage
+31;Zeitlaeufte
+32;Unbekannt
+33;Deutschland
+34;Sport
+35;Fussball
+36;Karriere
+37;Auto
+38;Altersvorsorge
+39;
+40;International
+41;Subkultur
+42;Weblogs
+43;Gefühl
+44;Zuender
+45;Fu Ball
+46;Digital
+47;Bildung
+48;Mobilitaet
+49;Administratives
+50;Meinung
+51;Leserbriefe
+52;Geschichte
+53;Politisches Buch
+54;Politik Schweiz
+55;News
+56;Politik Österreich
+57;Politik Sachsen
+58;Glauben Und Zweifeln
+59;Zeit Magazin
+60;Angebote
+61;Entdecken
+62;KinderZEIT
+63;Politik Osten
+64;Aktuelles
+65;Spiele
+66;Zeitmagazin
+67;Hamburg
+68;Community
+69;Recht Und Unrecht
+70;Arbeit
+71;Christ Amp Welt
+72;ZEITmagazin

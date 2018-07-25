@@ -8,8 +8,8 @@ function extract() {
 
   var ressorts = [];
   var access = [];
+  var extractedBewegungsdata = [];
   var extractedArticles = [];
-  var extractedArticleTexts = [];
 
   var authorObject = {};
   var ressortObject = {};
@@ -19,15 +19,13 @@ function extract() {
     var articles = require('../posts/' + year + '.json');
     for (let article of articles) {
       addToArray(authorObject, authors, article.author, null);
-      addToArray(ressortObject, ressorts, article.ressort, 'DE');
+      addToArray(ressortObject, ressorts, article.ressort, null);
 
       for (let author of article.authors) {
         var authorSplitted = author.split(/[(;)]/);
         for (let auth of authorSplitted)
           addToArray(authorObject, authors, auth, null);
       }
-
-      addToArray(accessObject, access, article.access, null);
     }
   }
 
@@ -41,9 +39,7 @@ function extract() {
 
   console.log(authors.length + ' Authors');
   console.log(ressorts.length + ' Ressorts');
-  console.log(access.length + ' Access');
-
-  save(access, './extracted/', 'access');
+  ;
   save(authors, './extracted/', 'authors');
   save(ressorts, './extracted/', 'ressorts');
 
@@ -52,57 +48,42 @@ function extract() {
     var articles = require('../posts/' + year + '.json');
 
     for (let art of articles) {
+      var bewegungsdata = {};
       var article = {};
-      var articleText = {};
       if (art.length === 0) continue;
 
-      article.id = extractedArticles.length + 1;
-      articleText.id = article.id;
-      article.author = authorObject[standarize(art.author)] + 1;
-      article.ressort = ressortObject[standarize(art.ressort)] + 1;
-      article.access = accessObject[standarize(art.access)] + 1;
+      bewegungsdata.article = extractedBewegungsdata.length + 1;
+      article.id = bewegungsdata.id;
+      bewegungsdata.author = authorObject[standarize(art.author)] + 1;
+      bewegungsdata.ressort = ressortObject[standarize(art.ressort)] + 1;
 
-      articleText.Sprache = 'DE';
-      articleText.title = standarize(art.title);
+      article.title = standarize(art.title);
 
-      article.release_date = art.date_first_released !== null
+      bewegungsdata.release_date = art.date_first_released !== null
         && art.date_first_released !== undefined
         ? new Date(art.date_first_released) : new Date(year);
 
-      article.release_date = article.release_date.toISOString().split('T')[0].replace(/-/g, "");
+      bewegungsdata.release_date = bewegungsdata.release_date.toISOString().split('T')[0].replace(/-/g, "");
 
-      article.has_comments = art.show_commentthread !== null
+      bewegungsdata.comments = art.show_commentthread !== null
         && art.show_commentthread !== undefined
-        ? 1 : 2;
+        ? randomBetween(1, 2000) : 0;
 
-      article.moderated_comments = art.comments_premoderate !== null
-        && art.comments_premoderate !== undefined
-        ? 1 : 2;
-
-      article.has_recensions = art.has_recensions !== null
+      bewegungsdata.recensions = art.has_recensions !== null
         && art.has_recensions !== undefined
-        ? 1 : 2;
+        ? randomBetween(1, 2000) : 0;
 
-      article.breaking_news = art.breaking_news !== null
-        && art.breaking_news !== undefined
-        ? 1 : 2;
+      bewegungsdata.length = art.length;
 
-      article.corrected = art.date_last_checkout !== null
-        && art.date_last_checkout !== undefined
-        && art.date_last_checkout === art.date_first_released
-        ? 1 : 2;
-
-      article.length = art.length;
-
+      extractedBewegungsdata.push(bewegungsdata);
       extractedArticles.push(article);
-      extractedArticleTexts.push(articleText);
     }
   }
   console.log();
 
-  console.log(extractedArticles.length + ' Articles');
+  console.log(extractedBewegungsdata.length + ' Articles');
+  save(extractedBewegungsdata, './extracted/', 'bewegungsdaten');
   save(extractedArticles, './extracted/', 'articles');
-  save(extractedArticleTexts, './extracted/', 'articleTexts');
 }
 
 function addToArray(obj, array, attribute, lang) {
@@ -143,5 +124,9 @@ function standarize(string) {
     strings[i] = strings[i].charAt(0).toUpperCase() + strings[i].slice(1);
   string = strings.join(' ');
   return string;
+}
+
+function randomBetween(min, max) {
+  return Math.floor(Math.random() * max) + min;
 }
 module.exports = { extract }
