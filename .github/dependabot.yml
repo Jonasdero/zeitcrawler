@@ -1,0 +1,33 @@
+# Minor/patch updates grouped into one PR per ecosystem, weekly; majors arrive individually
+# (the auto-merge workflow skips them). New releases wait 3 days before being proposed.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 3
+    open-pull-requests-limit: 5
+    labels:
+      - dependencies
+    groups:
+      all-dependencies:
+        patterns:
+          - '*'
+        update-types:
+          - minor
+          - patch
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 3
+    groups:
+      actions:
+        patterns:
+          - '*'
+        update-types:
+          - minor
+          - patch
