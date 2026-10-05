@@ -1,0 +1,17 @@
+name: Dependabot Auto Merge
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+permissions:
+  contents: write
+  pull-requests: write
+  checks: read
+concurrency:
+  group: dependabot-auto-merge-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: false
+jobs:
+  auto-merge:
+    uses: Jonasdero/shared-workflows/.github/workflows/dependabot-auto-merge.yml@v1
+    with:
+      merge-method: rebase
